@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "resenas-coches-compactos-de-viaje",
+    "name": "Reseñas de Coches Compactos",
+    "icon": "stroller",
+    "description": "Análisis técnicos de Ingenuity, Kolcraft, Doona y compactos de cabina en Amazon EE. UU.: peso real, medidas plegado, cierre con una mano y litros libres en maletera."
+  },
+  {
+    "slug": "comparativas-coches-de-bebe",
+    "name": "Comparativas Modelo vs Modelo",
+    "icon": "scale",
+    "description": "Duelos directos entre Ingenuity 3Dlite, Kolcraft Cloud Plus, Doona 2-en-1, 3Dmini, 3Dquickclose y gb Pockit+ evaluando espacio en cajuela y portabilidad."
+  },
+  {
+    "slug": "mejores-coches-por-viaje-y-auto",
+    "name": "Mejores Coches por Viaje y Auto",
+    "icon": "car",
+    "description": "Selecciones de compra en Amazon según tamaño de maletera (sedán, hatchback, SUV), presupuesto en dólares, cabina de avión y cierre real con una sola mano."
+  },
+  {
+    "slug": "bolsos-de-transporte-y-fundas-avion",
+    "name": "Bolsos de Transporte y Gate Check",
+    "icon": "bag",
+    "description": "Fundas impermeables Gate Check y mochilas acolchadas compatibles con plegado paraguas (Ingenuity), plegado libro (Kolcraft) y silla de auto Doona."
+  },
+  {
+    "slug": "protectores-de-lluvia-y-clima",
+    "name": "Protectores de Lluvia y Clima",
+    "icon": "rain",
+    "description": "Burbujas de lluvia EVA libres de PVC con ventilación lateral, mosquiteros y extensores solares UV50+ ajustados a cada modelo compacto."
+  },
+  {
+    "slug": "organizadores-y-accesorios-compatibles",
+    "name": "Organizadores y Accesorios",
+    "icon": "organizer",
+    "description": "Organizadores de manillar para doble mango tipo paraguas vs barra corrida única, bandejas snack, portavasos y correas compatibles sin volcar el coche."
+  },
+  {
+    "slug": "viajar-en-avion-cabina-y-gate-check",
+    "name": "Avión, Cabina y Gate Check",
+    "icon": "plane",
+    "description": "Reglas reales por aerolínea para subir el coche a cabina (Overhead Bin), entregarlo en puerta de embarque o usar el Doona en el asiento con sello FAA."
+  },
+  {
+    "slug": "espacio-en-maletera-y-viajes-en-auto",
+    "name": "Espacio en Maletera y Auto",
+    "icon": "trunk",
+    "description": "Cómo encajar un coche compacto junto a tus maletas de 23 kg y carry-on en sedanes, hatchbacks, taxis y autos alquilados según centímetros y litros."
+  },
+  {
+    "slug": "guias-de-plegado-peso-y-medidas",
+    "name": "Plegado, Peso y Medidas",
+    "icon": "fold",
+    "description": "Técnicas de cierre con una sola mano, diferencias entre plegado 3D paraguas, libro y tríptico, seguros de transporte y carga en escaleras."
+  },
+  {
+    "slug": "etapas-del-bebe-edad-peso-y-reclinado",
+    "name": "Etapas del Bebé y Reclinado",
+    "icon": "baby",
+    "description": "Qué coche compacto usar desde recién nacido (Doona y reclinado plano), de 6 a 12 meses y para niños grandes hasta 50 lb (22.6 kg) sin incomodidad."
+  },
+  {
+    "slug": "seguridad-certificaciones-faa-y-frenos",
+    "name": "Seguridad, FAA y Frenos",
+    "icon": "shield",
+    "description": "Certificaciones JPMA, ASTM F833 y FAA para vuelos, ajuste del arnés de 5 puntos, centro de gravedad anti-vuelco y prueba de frenos traseros."
+  },
+  {
+    "slug": "mantenimiento-limpieza-y-repuestos",
+    "name": "Mantenimiento y Limpieza",
+    "icon": "wrench",
+    "description": "Limpieza profunda tras viajes con arena o lluvia, lubricación seca de ruedas giratorias, lavado de fundas y ajuste de trabas de plegado."
+  },
+  {
+    "slug": "destinos-paseos-urbanos-y-logistica-familiar",
+    "name": "Destinos y Paseos Urbanos",
+    "icon": "map",
+    "description": "Logística familiar real con coche ligero en calles adoquinadas, parques temáticos, aeropuertos con escalas, cruceros y restaurantes estrechos."
+  },
+  {
+    "slug": "guia-de-compra-en-amazon-usa-y-equipaje",
+    "name": "Compra en Amazon EE. UU.",
+    "icon": "box",
+    "description": "Cómo interpretar medidas en pulgadas y libras en Amazon EE. UU., envío a hoteles o lockers, compatibilidad real de accesorios y checklists de viaje."
+  }
+]
