@@ -150,7 +150,7 @@ export default function Home() {
       img: null,
       icon: "🏆",
       role: "13 lb (5.9 kg) · Reclinado 4 Posiciones · Hasta 50 lb",
-      d: "Chasis de aluminio ligero con correa de hombro integrada, plegado 3D (109 × 25 × 30 cm) y canasta amplia. El más equilibrado por menos de US$100 en Amazon EE. UU.",
+      d: "Chasis de aluminio ligero con correa de hombro integrada, plegado 3D (109 × 25 × 30 cm) y canasta amplia. Uno de los modelos más equilibrados para viajes familiares en Amazon EE. UU.",
       href: safeHref(
         "/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/"
       ),
@@ -548,8 +548,9 @@ export default function Home() {
                     43&quot; va en diagonal; el libro de 22&quot; va de pie.
                   </li>
                   <li>
-                    • <strong>Gate Check obligatorio:</strong> una funda de US$20
-                    evita perder ruedas o manchar la capota en el avión.
+                    • <strong>Gate Check protegido:</strong> una funda
+                    impermeable evita perder ruedas o manchar la capota en la
+                    bodega del avión.
                   </li>
                 </ul>
               </div>

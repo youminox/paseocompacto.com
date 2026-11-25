@@ -47,8 +47,6 @@ export interface AmazonProductCard {
   badge: string;
   title: string;
   subtitle: string;
-  rating: string;
-  reviewsCount: string;
   urlUS: string;
   urlES: string;
 }
@@ -56,49 +54,41 @@ export interface AmazonProductCard {
 const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
   "ingenuity-3dlite-convenience": {
     id: "ingenuity-3dlite-convenience",
-    badge: "🏆 #1 Todoterreno Ligero Calidad-Precio",
+    badge: "🏆 Referente Equilibrio Peso-Reclinado",
     title:
       "Ingenuity 3Dlite Convenience Stroller — Chasis Aluminio 13 lb (5.9 kg) y Reclinado 4 Posiciones",
     subtitle:
       "Plegado compacto 3D (109 × 25 × 30 cm), correa de hombro integrada, soporta hasta 50 lb (22.6 kg) y deja +75 % de la maletera libre para tus maletas.",
-    rating: "4.7",
-    reviewsCount: "29.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Ingenuity 3Dlite Convenience Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Ingenuity 3Dlite silla de paseo ligera")}&tag=${AMAZON_TAG_ES}`,
   },
   "kolcraft-cloud-plus-lightweight": {
     id: "kolcraft-cloud-plus-lightweight",
-    badge: "✋ #1 Verdadero Plegado con 1 Sola Mano (11.8 lb)",
+    badge: "✋ Verdadero Plegado con 1 Sola Mano (11.8 lb)",
     title:
       "Kolcraft Cloud Plus Lightweight Easy-Fold Stroller — Plegado de Pie con 1 Mano (5.3 kg)",
     subtitle:
       "Plegado en un segundo desde el manillar (46 × 30 × 86 cm), se mantiene de pie en la maletera, incluye bandeja para padres e hijo y soporta hasta 50 lb.",
-    rating: "4.6",
-    reviewsCount: "18.700+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Kolcraft Cloud Plus Lightweight Easy Fold Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Kolcraft Cloud Plus silla de paseo plegado una mano")}&tag=${AMAZON_TAG_ES}`,
   },
   "doona-car-seat-stroller": {
     id: "doona-car-seat-stroller",
-    badge: "✈️ #1 Sistema 2-en-1 Certificado FAA (0 % Espacio en Maletera)",
+    badge: "✈️ Sistema 2-en-1 Certificado FAA (0 % Espacio en Maletera)",
     title:
       "Doona Car Seat & Stroller — Silla de Auto Certificada Avión FAA + Coche Integrado",
     subtitle:
       "Convierte la silla de auto en coche en 1 segundo sin despertar al bebé (4 a 35 lb). Va en el asiento del auto o avión dejando el 100 % de la maletera libre.",
-    rating: "4.9",
-    reviewsCount: "14.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Doona Infant Car Seat Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Doona silla de coche y paseo 2 en 1")}&tag=${AMAZON_TAG_ES}`,
   },
   "ingenuity-3dmini-convenience": {
     id: "ingenuity-3dmini-convenience",
-    badge: "🪶 El Más Liviano y Económico de Viaje (11 lb)",
+    badge: "🪶 Ultraligero Compacto de Viaje (11 lb)",
     title:
       "Ingenuity 3Dmini Convenience Stroller — Ultraligero 11 lb (4.9 kg) para Vuelos y Taxis",
     subtitle:
       "Plegado ultradelgado (109 × 24 × 27 cm) para maleteras pequeñas, respaldos acolchados con multiposición y doble portavasos para padres.",
-    rating: "4.6",
-    reviewsCount: "21.500+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Ingenuity 3Dmini Convenience Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Ingenuity 3Dmini silla paseo ultraligera")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -109,44 +99,36 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Ingenuity 3Dquickclose CS+ Compact Fold Stroller — Cierre Rápido Libro con 1 Mano",
     subtitle:
       "Medidas ultracortas plegado (56 × 52 × 32 cm) para entrar de pie en maleteras cortas, con cierre instantáneo con una mano y compatible con silla de auto.",
-    rating: "4.5",
-    reviewsCount: "3.900+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Ingenuity 3Dquickclose CS Compact Fold Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Ingenuity coche compacto plegado libro una mano")}&tag=${AMAZON_TAG_ES}`,
   },
   "kolcraft-cloud-umbrella": {
     id: "kolcraft-cloud-umbrella",
-    badge: "☀️ Ultraligero Tipo Bastón para Aeropuertos (< $50)",
+    badge: "☀️ Ultraligero Tipo Bastón con Malla Ventilada",
     title:
       "Kolcraft Cloud Umbrella Stroller — 9.5 a 11 lb con Capota Extensible y Respaldo Ventilado",
     subtitle:
       "Se guarda en segundos en cualquier esquina de la cajuela (104 × 28 × 23 cm), ideal para traslados rápidos, conexiones aéreas y abuelos.",
-    rating: "4.5",
-    reviewsCount: "9.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Kolcraft Cloud Umbrella Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Kolcraft Cloud silla de paseo paraguas ligera")}&tag=${AMAZON_TAG_ES}`,
   },
   "gb-pockit-all-terrain": {
     id: "gb-pockit-all-terrain",
-    badge: "🧳 Plegado Récord de Cabina IATA (Cabe en Overhead Bin)",
+    badge: "🧳 Formato Cabina IATA (Cabe en Overhead Bin)",
     title:
       "gb Pockit+ All-Terrain / Stokke YOYO3 — Coche Ultracompacto Apto Compartimento Superior",
     subtitle:
-      "Plegado ultrarreducido (34 × 20 × 42 cm, 12.3 lb) que sube contigo directo a la cabina del avión sin pasar por puerta de embarque ni bodega.",
-    rating: "4.6",
-    reviewsCount: "7.600+",
+      "Plegado ultrarreducido (34 × 20 × 42 cm, 12.3 lb) pensado para subir a la cabina del avión sin pasar por puerta de embarque ni bodega.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("gb Pockit All Terrain Ultra Compact Stroller")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("gb Pockit All Terrain silla de paseo plegado cabina avion")}&tag=${AMAZON_TAG_ES}`,
   },
   "gate-check-travel-bag": {
     id: "gate-check-travel-bag",
-    badge: "🛡️ Protección Obligatoria en Puerta de Avión",
+    badge: "🛡️ Protección Impermeable en Puerta de Avión",
     title:
       "J.L. Childress Gate Check Bag / Mochila Acolchada de Transporte (Paraguas, Libro y Doona)",
     subtitle:
       "Funda impermeable de nailon resistente con correas acolchadas para cargar al hombro y etiqueta de identificación; evita raspones, lluvia y grasa en bodega.",
-    rating: "4.8",
-    reviewsCount: "34.100+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("J.L. Childress Gate Check Travel Bag Stroller Umbrella Doona")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("bolsa transporte silla paseo avion impermeable mochila")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -157,8 +139,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Protector de Lluvia Universal Ventilado EVA (Compatible con Ingenuity, Kolcraft y Doona)",
     subtitle:
       "Ventana frontal con doble cierre para atender al bebé, malla lateral respirable contra condensación y ajuste firme contra viento y lluvia.",
-    rating: "4.7",
-    reviewsCount: "16.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Universal Stroller Rain Cover EVA Clear Waterproof Ingenuity Kolcraft")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("protector lluvia silla paseo universal transparente impermeable")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -169,8 +149,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Organizador Universal de Manillar con 2 Portavasos Térmicos y Bolso Desmontable",
     subtitle:
       "Correas antideslizantes compatibles con manillar tipo paraguas (Ingenuity 3Dlite) y barra corrida (Kolcraft Cloud Plus / Doona) sin desequilibrar el coche.",
-    rating: "4.8",
-    reviewsCount: "28.900+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Momcozy Universal Stroller Organizer Cup Holder")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("organizador carrito bebe universal portavasos")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -614,6 +592,7 @@ Tu doble misión es:
    - Enlaza entre 1 y 3 guías de nuestro listado inferior usando Markdown exacto: [Título](${SITE}/categoria/slug/) e incluye sus slugs en "recommended_slugs".
 2. AYUDAR ACTIVAMENTE A QUE COMPREN EN AMAZON (${storeName}):
    - Recomienda siempre 1 o 2 productos exactos de nuestro CATÁLOGO AMAZON OFICIAL (por ejemplo, el coche ideal + su bolso de transporte Gate Check, protector de lluvia u organizador compatible).
+   - POLÍTICA AMAZON ASSOCIATES ESTRICTA: NUNCA inventes ni cites precios numéricos, estrellas de valoración ni número de reseñas/opiniones. Indica siempre al usuario que consulte el precio y la disponibilidad en tiempo real haciendo clic en el enlace de ${storeName}.
    - Incluye en tu respuesta un enlace Markdown directo al producto en ${storeName} usando su URL_${region} exacta y añade entre 1 y 2 IDs en "recommended_product_ids".${extraInstructions}
 
 CATÁLOGO AMAZON OFICIAL (${storeName}):

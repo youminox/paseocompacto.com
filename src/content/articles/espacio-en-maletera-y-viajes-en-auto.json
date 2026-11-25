@@ -4,152 +4,144 @@
   "path": "/espacio-en-maletera-y-viajes-en-auto/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "espacio en maletera coche de bebe compacto y equipaje",
   "title": "Espacio en Maletera y Viajes en Auto: Cómo Acomodar el Coche Junto a tus Maletas",
   "seoTitle": "Espacio en Maletera y Viajes en Auto: Cómo Acomodar el Coche Junto a tus Maletas | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre medidas internas de sedanes, hatchbacks y taxis/Uber frente a los tres formatos de plegado (paraguas, libro y 2-en-1 en asiento) para viajar sin dejar maletas atrás. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 140 guías sobre medidas internas de sedanes, hatchbacks y taxis/Uber frente a los tres formatos de plegado (paraguas, libro y 2-en-1 en asiento) para viajar sin dejar maletas atrás con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 140 guías sobre medidas internas de sedanes, hatchbacks y taxis/Uber frente a los tres formatos de plegado (paraguas, libro y 2-en-1 en asiento) para viajar sin dejar maletas atrás. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Guía práctica de espacio en maletera para coches de bebé compactos y equipaje: compara plegado paraguas, libro y 2-en-1 en sedanes, hatchbacks y taxis.",
+  "excerpt": "Descubre qué formato de coche compacto encaja mejor con tus valijas según el corte de cajuela de tu sedán, hatchback o taxi de aeropuerto, aprovechando cada centímetro útil sin sacrificar equipaje.",
+  "quickAnswer": "Para acomodar coche y maletas sin perder asientos, elige la geometría según tu auto: el plegado paraguas 3D (como Ingenuity 3Dlite, 109 × 25 × 30 cm) deja más del 75 % libre en sedanes anchos; el plegado libro cuadrado o vertical (Ingenuity 3Dquickclose CS+ o Kolcraft Cloud Plus) entra de pie o plano junto a dos valijas de 23 kg en hatchbacks y sedanes; y el sistema 2-en-1 Doona viaja asegurado en el asiento trasero dejando el 100 % de la maletera libre.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Oblique airport concourse or city café terrace photograph with soft background bokeh: open compact sedan trunk neatly packed with two hardshell suitcases, a diaper backpack and a folded travel stroller leaving room to spare, on a bright modern airport boarding gate corridor floor, clean sunlit modern garage illumination showing trunk dimensions clearly. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Medium shot focused on handlebar ergonomics and parent grip on 85mm lens: open compact sedan trunk neatly packed with two hardshell suitcases, a diaper backpack and a folded travel stroller leaving room to spare, positioned to clearly demonstrate generous free car trunk cargo space alongside family suitcases in dusty eucalyptus green canopy with silver-gray frame, on a historic European cobblestone pedestrian street near café chairs, crisp autumn afternoon clarity with rich natural contrast. Topic focus: espacio en maletera y viajes en auto. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Espacio en Maletera y Viajes en Auto: Cómo Acomodar el Coche Junto a tus Maletas"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Espacio en Maletera y Viajes en Auto: Cómo Acomodar el Coche Junto a tus Maletas** en **PaseoCompacto.com**. Aquí reunimos nuestras **140 guías verificadas** sobre **medidas internas de sedanes, hatchbacks y taxis/Uber frente a los tres formatos de plegado (paraguas, libro y 2-en-1 en asiento) para viajar sin dejar maletas atrás**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Mirar solo los litros oficiales del maletero lleva a malas sorpresas el día del viaje: un sedán mediano anuncia 470 litros pero tiene una boca de carga baja y pasos de rueda estrechos, mientras que un hatchback compacto de 310 litros aprovecha la altura hasta la bandeja trasera. Para que el coche del bebé conviva con dos valijas grandes de bodega y la pañalera sin invadir los asientos de los pasajeros, la clave está en cruzar las medidas reales de tu cajuela con la geometría exacta del chasis cerrado."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Espacio en Maletera y Viajes en Auto"
+      "text": "Por qué los litros de cajuela engañan cuando sumas maletas de 23 kg"
     },
     {
       "type": "p",
-      "text": "En cada una de las **140 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "En sedanes familiares habituales como Toyota Corolla, Yaris Sedán o Nissan Sentra, el ancho libre entre los pasos de rueda suele rondar entre **100 y 105 cm**, pero la diagonal interna alcanza de **112 a 118 cm**. Si intentas meter un coche tradicional de paseo, su ancho y sus ruedas voluminosas bloquean el piso completo e impiden acostar valijas rígidas. En cambio, al [acomodar un coche compacto junto a dos maletas en la maletera de un sedán](/espacio-en-maletera-y-viajes-en-auto/como-meter-coche-compacto-y-dos-maletas-maletera-sedan/), juegas con perfiles delgados que se deslizan al fondo contra el respaldo o en diagonal junto al borde de cierre."
+    },
+    {
+      "type": "h2",
+      "text": "Tres geometrías de plegado frente a sedanes, hatchbacks y taxis"
+    },
+    {
+      "type": "p",
+      "text": "Cada carrocería premia un tipo de pliegue distinto. El **plegado paraguas 3D** de modelos como el **Ingenuity 3Dlite** (**43\" × 10\" × 12\" / 109 × 25 × 30 cm**, **13 lb / 5.9 kg**) o el **Ingenuity 3Dmini** (**43\" × 9.5\" × 10.5\" / 109 × 24 × 27 cm**) forma un cilindro largo y estrecho que deja **más del 75 %** de la cajuela libre en sedanes profundos, tal como demuestran nuestras [pruebas en maletera de Toyota Corolla y Yaris Sedán con Ingenuity 3Dlite](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-ingenuity-3dlite-y-3dmini/). Si conduces un hatchback corto donde **109 cm** no entran a lo ancho, conviene un **plegado libro cuadrado o tríptico**: el **Ingenuity 3Dquickclose CS+** cierra en **22\" × 20.5\" × 12.5\" (56 × 52 × 32 cm)** para ir de pie a un costado —revisa [cómo encaja el plegado libro del Ingenuity 3Dquickclose](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-ingenuity-3dquickclose-libro/)—, el **Kolcraft Cloud Plus** aplana su perfil a **18\" × 12\" × 34\" (46 × 30 × 86 cm)** dejando sitio para dos valijas de **23 kg**, y ultracompactos IATA como el **gb Pockit+ All-Terrain** bajan hasta **34 × 20 × 42 cm**. Por último, durante el primer año de vida, el sistema **Doona Car Seat & Stroller** (**16.5 lb / 7.5 kg**) retrae sus ruedas en un segundo para [viajar con Doona instalado en el asiento trasero](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-doona-en-asiento-trasero/), consumiendo **0 litros** de maletera (**100 % libre** para equipaje)."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Espacio en Maletera y Viajes en Auto: Cómo Acomodar el Coche Junto a tus Maletas",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Formato y modelo referencia",
+        "Medidas plegado (in / cm)",
+        "Vehículo donde mejor rinde",
+        "Equipaje que entra a la par"
       ],
       "rows": [
         [
-          "Cómo Acomodar un Coche Compacto y Dos Maletas Grandes en la Maletera de un Sedán sin Forzar el Chasis",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/como-meter-coche-compacto-y-dos-maletas-maletera-sedan/)"
+          "Paraguas 3D (Ingenuity 3Dlite)",
+          "43\" × 10\" × 12\" (109 × 25 × 30 cm)",
+          "Sedanes medianos y SUVs anchas",
+          "Deja +75 % libre (2 maletas medianas/grandes + bolsos)"
         ],
         [
-          "Espacio en Maletera de Toyota Corolla y Yaris Llevando un Ingenuity 3Dlite o 3Dmini",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-ingenuity-3dlite-y-3dmini/)"
+          "Vertical plano (Kolcraft Cloud Plus)",
+          "18\" × 12\" × 34\" (46 × 30 × 86 cm)",
+          "Sedanes profundos y crossovers",
+          "2 maletas grandes de 23 kg + mochila de cabina"
         ],
         [
-          "Espacio en Maletera de Toyota Corolla y Yaris Llevando un Kolcraft Cloud Plus",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-kolcraft-cloud-plus/)"
+          "Libro cuadrado (Ingenuity 3Dquickclose CS+)",
+          "22\" × 20.5\" × 12.5\" (56 × 52 × 32 cm)",
+          "Hatchbacks cortos y autos urbanos",
+          "Entra de pie en un lateral junto a 1–2 valijas"
         ],
         [
-          "Espacio en Maletera de Toyota Corolla y Yaris Usando el Doona en el Asiento Trasero",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-doona-en-asiento-trasero/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris con Plegado Libro Ingenuity 3Dquickclose",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-ingenuity-3dquickclose-libro/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris Junto a 2 Maletas de 23 kg y Mochilas",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-2-maletas-23kg-y-carry-on/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris Dejando Espacio Extra para Compras",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-1-maleta-y-compras-viaje/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris Con Bolso Gate Check y Accesorios",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-pa-alera-y-protector-lluvia/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris Cerrando Sin Quitar la Tapa de la Cajuela",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-sin-quitar-la-bandeja-cubre-equipaje/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris en Escapadas Familiares de Fin de Semana",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-para-escapadas-fin-de-semana/)"
-        ],
-        [
-          "Espacio en Maletera de Toyota Corolla y Yaris en Viajes Diarios en Ciudad",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-para-traslados-diarios-en-ciudad/)"
-        ],
-        [
-          "Medidas Reales de Cajuela en Kia Rio, Soluto y Cerato Llevando un Ingenuity 3Dlite o 3Dmini",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-kia-rio-soluto-y-cerato-con-ingenuity-3dlite-y-3dmini/)"
-        ],
-        [
-          "Medidas Reales de Cajuela en Kia Rio, Soluto y Cerato Llevando un Kolcraft Cloud Plus",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-kia-rio-soluto-y-cerato-con-kolcraft-cloud-plus/)"
-        ],
-        [
-          "Medidas Reales de Cajuela en Kia Rio, Soluto y Cerato Usando el Doona en el Asiento Trasero",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-kia-rio-soluto-y-cerato-con-doona-en-asiento-trasero/)"
-        ],
-        [
-          "Medidas Reales de Cajuela en Kia Rio, Soluto y Cerato con Plegado Libro Ingenuity 3Dquickclose",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-kia-rio-soluto-y-cerato-con-ingenuity-3dquickclose-libro/)"
-        ],
-        [
-          "Medidas Reales de Cajuela en Kia Rio, Soluto y Cerato Junto a 2 Maletas de 23 kg y Mochilas",
-          "[Ver guía completa](/espacio-en-maletera-y-viajes-en-auto/maletera-kia-rio-soluto-y-cerato-con-2-maletas-23kg-y-carry-on/)"
+          "2-en-1 en asiento (Doona Car Seat)",
+          "23.6\" × 17.3\" × 26\" (60 × 44 × 66 cm)",
+          "Taxis pequeños, Uber y cualquier auto",
+          "100 % de la maletera libre (0 litros en cajuela)"
         ]
+      ],
+      "caption": "Comparativa real de espacio ocupado en cajuela según el formato de plegado"
+    },
+    {
+      "type": "h2",
+      "text": "Secuencia de carga para aprovechar cada rincón sin dañar el chasis"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "1. Valijas rígidas pesadas al fondo",
+          "text": "Coloca primero las maletas de 23 kg acostadas y pegadas al respaldo del asiento trasero para mantener el peso cerca del eje del vehículo y crear una pared plana estable."
+        },
+        {
+          "name": "2. Coche compacto en la boca o en vertical lateral",
+          "text": "En sedanes, apoya un coche paraguas o plano justo delante de las maletas para bajarlo primero al llegar al hotel; en hatchbacks, ubica el coche de plegado libro de pie contra un costado."
+        },
+        {
+          "name": "3. Equipaje blando en los huecos laterales",
+          "text": "Aprovecha las cavidades tras los pasos de rueda para encajar la pañalera, el protector de lluvia EVA enrollado y mochilas flexibles que amortigüen movimientos en curvas."
+        },
+        {
+          "name": "4. Comprobación de bisagras de cuello de cisne",
+          "text": "Antes de soltar con fuerza la tapa del sedán, bájala despacio la primera vez para verificar que los brazos curvos metálicos de la puerta no presionen los tubos de aluminio ni los manillares."
+        }
       ]
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      "variant": "aviso",
+      "text": "En traslados desde el aeropuerto en Latinoamérica o vehículos de alquiler económicos, muchos sedanes llevan un cilindro de GNV o GLP instalado al fondo de la maletera, reduciendo a la mitad la profundidad útil. Si sueles moverte en taxi por aplicación con maletas, prioriza plegados tipo libro muy compactos (como Contours Bitsy Elite, Bugaboo Butterfly o gb Pockit+) o el Doona en el asiento; un bastón de 43\" (109 cm) puede obligarte a llevarlo atravesado si el tanque bloquea la diagonal.",
+      "title": "Atención a los taxis de aeropuerto con tanque de gas (GNV o GLP)"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Las tres medidas que conviene tomar con cinta métrica antes de comprar"
     },
     {
-      "type": "ol",
-      "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
-      ]
+      "type": "p",
+      "text": "Antes de decidirte por un modelo en Amazon Estados Unidos, baja un minuto al estacionamiento y anota tres cotas interiores de tu auto: el **ancho mínimo entre guardafangos**, la **profundidad útil** desde la base del respaldo trasero hasta el cierre y la **altura bajo la bandeja cubreequipaje** si tienes un hatchback o SUV compacta. Además, llevar una funda ligera tipo **Gate Check** (alargada de **43\"** para paraguas o cuadrada tipo mochila para plegado libro) en la propia cajuela aísla las llantas con polvo o humedad para no manchar abrigos ni bolsos de tela durante la ruta."
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Quieres saber al instante si un modelo cabe junto a tus valijas en tu auto exacto? Pregúntale a nuestro Asesor IA indicando la marca de tu vehículo o revisa la disponibilidad de colores y medidas verificadas en las tarjetas de Amazon de esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Espacio en Maletera y Viajes en Auto: Cómo Acomodar el Coche Junto a tus Maletas?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Cabe un coche de plegado paraguas de 43 pulgadas en un hatchback pequeño sin quitar la bandeja?",
+      "a": "En la mayoría de hatchbacks subcompactos, los 109 cm (43\") del plegado paraguas exceden el ancho recto entre pasos de rueda. Para no desmontar la bandeja superior ni abatir medio asiento trasero, resulta mucho más práctico un plegado libro cuadrado como el Ingenuity 3Dquickclose CS+ (56 × 52 × 32 cm) o un tríptico de cabina IATA que entra de pie en un costado."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Puedo colocar el coche compacto debajo de una maleta grande de 23 kg?",
+      "a": "Nunca apoyes una valija de 23 kg encima del coche plegado: los baches de carretera multiplican la carga vertical y pueden doblar las tijeras de aluminio, desalinear ejes de ruedas o partir trabas plásticas. Las maletas pesadas siempre van apoyadas directo sobre el piso de la cajuela y el coche va arriba o al frente."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Qué coche de viaje deja más espacio libre para equipaje en taxis por aplicación?",
+      "a": "El Doona Car Seat & Stroller es imbatible para recién nacidos hasta 35 lb (15.8 kg) y 32\" (81 cm) porque viaja sujeto con el cinturón en el asiento de pasajeros y deja libre toda la cajuela. Para niños mayores de un año hasta 50 lb (22.6 kg), el gb Pockit+ All-Terrain (34 × 20 × 42 cm) o el Kolcraft Cloud Plus (46 × 30 × 86 cm) liberan el máximo espacio para maletas."
+    },
+    {
+      "q": "¿Cómo evito que las ruedas del coche ensucien las maletas de tela dentro del maletero?",
+      "a": "Un bolso protector de tela impermeable (de 43 pulgadas para formato bastón o mochila cuadrada para formato libro) envuelve las cuatro ruedas en segundos. Así evitas que el barro de un día lluvioso o la arena de playa ensucie la tapicería del auto y las mochilas de ropa limpia."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +152,6 @@
     "/espacio-en-maletera-y-viajes-en-auto/maletera-toyota-corolla-y-yaris-sedan-con-doona-en-asiento-trasero/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-espacio-en-maletera-y-viajes-en-auto.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/espacio-en-maletera-y-viajes-en-auto.webp"
 }

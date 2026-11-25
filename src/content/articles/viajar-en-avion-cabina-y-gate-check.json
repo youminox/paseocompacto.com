@@ -4,152 +4,132 @@
   "path": "/viajar-en-avion-cabina-y-gate-check/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "viajar en avion con coche de bebe cabina y gate check",
   "title": "Viajar en Avión con Bebé: Cabina Superior (Overhead Bin) vs Puerta de Embarque (Gate Check)",
   "seoTitle": "Viajar en Avión con Bebé: Cabina Superior (Overhead Bin) vs Puerta de Embarque (Gate Check) | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre reglas de medidas por aerolínea internacional, cuándo un coche sube al compartimento superior, cómo despachar en puerta de embarque sin daños y cómo usar el Doona con sello FAA. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 150 guías sobre reglas de medidas por aerolínea internacional, cuándo un coche sube al compartimento superior, cómo despachar en puerta de embarque sin daños y cómo usar el Doona con sello FAA con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 150 guías sobre reglas de medidas por aerolínea internacional, cuándo un coche sube al compartimento superior, cómo despachar en puerta de embarque sin daños y cómo usar el Doona con sello FAA. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Todo para viajar en avión con coche de bebé: medidas IATA de cabina superior (Overhead Bin), reglas de Gate Check y uso del Doona certificado por FAA.",
+  "excerpt": "Domina las diferencias prácticas entre subir un coche ultracompacto al maletero superior, despacharlo protegido en puerta de embarque o instalar el Doona 2-en-1 en asiento propio.",
+  "quickAnswer": "Para subir el coche al compartimento superior (Overhead Bin) necesitas un plegado tríptico dentro del rango IATA (~55 × 35–40 × 20–23 cm, como gb Pockit+, YOYO3, Joolz Aer+ o Bugaboo Butterfly). Los modelos ligeros más largos (Ingenuity 3Dlite de 13 lb o Kolcraft Cloud Plus de 11.8 lb) llegan rodando hasta la puerta y se despachan gratis en Gate Check (cumpliendo el tope de <20 lb), mientras que el Doona 2-en-1 con sello FAA se instala directo en asiento propio de avión.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Wide interior view beside an open modern vehicle trunk with organized luggage: parents rolling a lightweight travel stroller along a sunlit airport terminal concourse toward the boarding gate, in a sunlit living room hallway ready for a weekend family road trip, warm golden-hour afternoon sunlight during family travel. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Split studio-style comparison framing on warm natural flooring on 50mm lens: ultra-compact tri-fold cabin baby stroller sized for airplane overhead bin, paired with a protective waterproof gate-check stroller travel bag with backpack straps, in an air-travel family boarding context in espresso brown trim on oatmeal melange fabric and black chassis, in an outdoor shopping promenade with smooth limestone pavers, crisp autumn afternoon clarity with rich natural contrast. Topic focus: viajar en avion cabina y gate check. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Viajar en Avión con Bebé: Cabina Superior (Overhead Bin) vs Puerta de Embarque (Gate Check)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Viajar en Avión con Bebé: Cabina Superior (Overhead Bin) vs Puerta de Embarque (Gate Check)** en **PaseoCompacto.com**. Aquí reunimos nuestras **150 guías verificadas** sobre **reglas de medidas por aerolínea internacional, cuándo un coche sube al compartimento superior, cómo despachar en puerta de embarque sin daños y cómo usar el Doona con sello FAA**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Tres familias pueden pasar juntas el mismo filtro de seguridad aeroportuario rodando a sus bebés y vivir embarques completamente distintos veinte minutos después: una guarda su coche sobre su cabeza y sale caminando apenas se abre la puerta del avión; la segunda espera diez minutos en el túnel de desembarque a que suban su coche desde la bodega; y la tercera recorre el pasillo central con una silla-coche que queda abrochada en la ventanilla. Dominar cómo viajar en avión con coche de bebé entre cabina y *Gate Check* depende de milímetros plegados, topes de peso en puerta y normas aeronáuticas reales."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Viajar en Avión con Bebé"
+      "text": "Las tres vías reales para volar hoy con un coche compacto"
     },
     {
       "type": "p",
-      "text": "En cada una de las **150 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "En aviación comercial existen tres rutas operativas claramente diferenciadas según la geometría cerrada del chasis. La primera es el **compartimento superior de cabina (Overhead Bin)**, reservada a coches de plegado tríptico o microplegado que respetan el estándar orientativo **IATA (~55 × 35–40 × 20–23 cm)**, como el **gb Pockit+ All-Terrain** (**34 × 20 × 42 cm**, **12.3 lb / 5.6 kg**), el **Munchkin Sparrow** (**36 × 15 × 32 cm**, **12.8 lb**), el **Babyzen YOYO2 / Stokke YOYO3** (**52 × 44 × 18 cm**, **13.6 lb / 6.2 kg**), el **Joolz Aer+** (**53.5 × 45 × 21.5 cm**, **13.2 lb / 6 kg**) o el **Bugaboo Butterfly** (**45 × 23 × 54 cm**, **16.1 lb / 7.3 kg**); puedes verificar el listado completo en nuestra guía sobre [qué coches caben en el compartimento superior del avión según medidas IATA](/viajar-en-avion-cabina-y-gate-check/que-coches-caben-compartimento-superior-avion-medidas-iata/). La segunda vía es la **entrega en puerta de embarque (Gate Check)**, ideal para coches ligeros pero más largos de 55 cm cerrados (como bastones de **104–109 cm** o verticales de **86 cm**). La tercera es el **uso en asiento propio certificado por la FAA**, protagonizado por el **Doona Car Seat & Stroller** (**16.5 lb / 7.5 kg**)."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Viajar en Avión con Bebé: Cabina Superior",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Modalidad en el vuelo",
+        "Requisito físico habitual",
+        "Modelos que cumplen la regla",
+        "Dónde recuperas el coche al aterrizar"
       ],
       "rows": [
         [
-          "¿Qué Coches de Bebé Caben en el Compartimento Superior del Avión? Medidas Reales IATA vs Gate Check",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/que-coches-caben-compartimento-superior-avion-medidas-iata/)"
+          "Cabina superior (Overhead Bin)",
+          "Plegado ~55 × 35–40 × 20–23 cm (cuenta dentro del cupo de mano)",
+          "gb Pockit+ All-Terrain, Munchkin Sparrow, YOYO3, Joolz Aer+, Bugaboo Butterfly",
+          "Al instante sobre tu fila sin esperar en pasarela"
         ],
         [
-          "Política de Coches de Bebé en American Airlines si Viajas con Ingenuity 3Dlite o 3Dmini",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-ingenuity-3dlite-y-3dmini/)"
+          "Puerta de embarque (Gate Check)",
+          "Largo >55 cm y peso contenido (<20 lb / 9 kg en aerolíneas estrictas)",
+          "Ingenuity 3Dlite (13 lb), 3Dmini (11 lb), Kolcraft Cloud Plus (11.8 lb), 3Dquickclose CS+ (17.5 lb)",
+          "En la manga del avión (5–15 min) o en banda final según conexión internacional"
         ],
         [
-          "Política de Coches de Bebé en American Airlines si Llevas un Kolcraft Cloud Plus",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-kolcraft-cloud-plus-y-umbrella/)"
+          "Mostrador de facturación (Counter Check)",
+          "Coches pesados >20 lb (9 kg) o estructuras dobles voluminosas",
+          "Coches grandes tradicionales de paseo diario",
+          "Carrusel de equipaje facturado tras pasar migraciones"
         ],
         [
-          "Política de Coches de Bebé en American Airlines con el Sistema Doona 2-en-1",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-doona-2-en-1-silla-auto/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines para Subirlo al Compartimento Superior",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-en-cabina-superior-overhead-bin/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines usando Bolso Protector Gate Check",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-en-puerta-de-embarque-con-bolso/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines en Tarifas Basic Economy sin Equipaje Extra",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-tarifas-economicas-basicas/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines en Vuelos Internacionales de Largo Alcance",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-vuelos-internacionales-largos/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines en Aviones Regionales de Pasillo Único",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-vuelos-domesticos-aviones-pequenos/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines y Dónde lo Recoges al Aterrizar",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-cuando-te-lo-devuelven-al-bajar/)"
-        ],
-        [
-          "Política de Coches de Bebé en American Airlines para Evitar Ruedas Rotas o Telas Manchas",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-errores-que-danan-ruedas-bodega/)"
-        ],
-        [
-          "Reglas para Viajar con Coche en Delta Air Lines si Viajas con Ingenuity 3Dlite o 3Dmini",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-delta-air-lines-ingenuity-3dlite-y-3dmini/)"
-        ],
-        [
-          "Reglas para Viajar con Coche en Delta Air Lines si Llevas un Kolcraft Cloud Plus",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-delta-air-lines-kolcraft-cloud-plus-y-umbrella/)"
-        ],
-        [
-          "Reglas para Viajar con Coche en Delta Air Lines con el Sistema Doona 2-en-1",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-delta-air-lines-doona-2-en-1-silla-auto/)"
-        ],
-        [
-          "Reglas para Viajar con Coche en Delta Air Lines para Subirlo al Compartimento Superior",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-delta-air-lines-en-cabina-superior-overhead-bin/)"
-        ],
-        [
-          "Reglas para Viajar con Coche en Delta Air Lines usando Bolso Protector Gate Check",
-          "[Ver guía completa](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-delta-air-lines-en-puerta-de-embarque-con-bolso/)"
+          "Asiento de avión certificado FAA",
+          "Boleto de asiento + etiqueta FAA impresa + ancho compatible (<17.5\")",
+          "Doona 2-en-1 FAA (23.6\" × 17.3\" × 26\" / 60 × 44 × 66 cm en modo silla)",
+          "Sale rodando contigo desde tu propia fila en un segundo"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      ],
+      "caption": "Comparativa operativa en aeropuerto: Cabina superior vs Gate Check vs Asiento FAA"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Por qué el tope de 20 libras (9 kg) define qué coches llegan hasta el avión"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "Muchas familias descubren tarde que ciertas aerolíneas estadounidenses —con especial rigor en American Airlines— fijan un límite máximo de **20 lb (9 kg)** para admitir coches en el puente de embarque: todo chasis que supere ese peso debe despacharse obligatoriamente en el mostrador inicial antes de cruzar seguridad, dejándote cargando al bebé en brazos por toda la terminal. Ahí radica el enorme éxito viajero del **Ingenuity 3Dmini** (**11 lb / 4.9 kg**), el **Kolcraft Cloud Plus** (**11.8 lb / 5.3 kg**), el **Ingenuity 3Dlite** (**13 lb / 5.9 kg**) y el **Ingenuity 3Dquickclose CS+** (**17.5 lb / 7.9 kg**), que se mantienen cómodamente bajo ese umbral. Si vuelas con esta compañía, revisa los criterios exactos en la [política de American Airlines para Ingenuity 3Dlite y 3Dmini](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-ingenuity-3dlite-y-3dmini/) y cómo preparar la [entrega en puerta de embarque con bolso protector](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-en-puerta-de-embarque-con-bolso/)."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "En vuelos operados con aviones regionales pequeños (Embraer o Bombardier CRJ) o al viajar con tarifas económicas básicas en vuelos llenos, los maleteros superiores son más bajos que el estándar de cabina ancha. Incluso con un coche compacto como el Ergobaby Metro+ (54 × 44 × 25 cm, 17.2 lb) o el Graco Ready2Jet (56 × 48 × 26 cm, 13.2 lb), el agente puede pedir etiqueta de entrega a pie de avión si los compartimentos ya se saturaron; aprovecha siempre el preembarque familiar para subir entre los primeros grupos.",
+      "title": "Atención a los aviones regionales y tarifas económicas básicas"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo subir e instalar el Doona 2-en-1 con sello FAA en el asiento del avión"
+    },
+    {
+      "type": "p",
+      "text": "Si viajas con un bebé de **4 a 35 lb (1.8–15.8 kg)** y hasta **32\" (81 cm)** de estatura, comprar asiento propio (o confirmar en mostrador si queda una plaza contigua libre) convierte al **Doona** en la solución más fluida del mercado. Llegas rodando hasta la puerta misma de la aeronave, presionas el gatillo trasero para retraer las ruedas bajo la carcasa en **1 segundo** (**17.3\" / 44 cm** de ancho exterior) y lo aseguras mirando hacia atrás con el cinturón ventral del avión en asiento de ventanilla, tal como exigen las tripulaciones para no obstruir la salida de otros pasajeros de la fila. Ten siempre despejado el sello rojo de certificación **FAA** en el lateral para mostrárselo a los sobrecargos al embarcar, siguiendo los pasos de nuestra guía sobre la [política de avión para el Doona 2-en-1](/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-doona-2-en-1-silla-auto/)."
+    },
+    {
+      "type": "h2",
+      "text": "Lista de verificación desde el escáner de seguridad hasta tu escala internacional"
+    },
+    {
+      "type": "ul",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        "**Cruce ágil por la banda de rayos X (TSA):** Los coches que cierran con perfil delgado de **9\" a 12.5\"** (como el **Kolcraft Cloud Umbrella**, **3Dlite**, **Cloud Plus** o **YOYO3**) atraviesan directamente el túnel del escáner sin demoras de inspección manual; recuerda vaciar antes todos los bolsillos y la canasta.",
+        "**Confirmación del punto de devolución en escalas:** En conexiones domésticas de EE. UU. suelen devolver el coche de *Gate Check* en el puente del primer vuelo, pero en varias escalas europeas o latinoamericanas lo envían directo a la cinta final. Pregúntalo siempre al recibir la etiqueta en el mostrador de la sala.",
+        "**Funda lista antes del llamado de embarque:** Enfunda y bloquea tu coche justo cuando anuncien el grupo de familias con menores de dos años, nunca en medio del pasillo estrecho del *jetbridge* con cien pasajeros detrás.",
+        "**Inspección rápida en manga al aterrizar:** Despliega el coche aún dentro del puente de desembarque para comprobar ruedas, trabas y frenos antes de alejarte del personal de la aerolínea; recuerda que en Amazon EE. UU. la oferta de modelos IATA, coches de menos de 20 lb y accesorios de vuelo varía a diario según inventario y color."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Tienes un vuelo próximo con escalas y quieres saber si tu coche sube a cabina o va a Gate Check en tu aerolínea? Pregúntale ahora a nuestro Asesor IA indicando tu ruta, o compara los modelos certificados IATA y FAA en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Viajar en Avión con Bebé: Cabina Superior?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Un coche que sube al compartimento superior (Overhead Bin) ocupa mi cupo de maleta de mano?",
+      "a": "En la mayoría de las aerolíneas internacionales y estadounidenses sí: un coche ultracompacto que guardas dentro del compartimento superior cuenta como tu pieza principal de equipaje de mano (carry-on), dejándote además un artículo personal bajo el asiento delantero (como la mochila pañalera). Si prefieres no ceder tu maleta de cabina, puedes entregar ese mismo coche sin costo adicional en Gate Check."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Por qué el Ingenuity 3Dlite no entra en el maletero superior si apenas pesa 13 libras?",
+      "a": "Porque el límite del maletero superior no lo marca el peso, sino el largo físico de la caja aérea (~55 cm / 22 pulgadas). El Ingenuity 3Dlite cierra tipo paraguas manteniendo 43 pulgadas (109 cm) de longitud, casi el doble de un carry-on estándar, por lo que físicamente no permite cerrar la compuerta superior y viaja siempre por Gate Check."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿En qué asiento del avión obligan a instalar el Doona certificado por la FAA?",
+      "a": "Por normativa de evacuación de cabina, las sillas infantiles certificadas por la FAA como el Doona deben instalarse en asientos de ventanilla (o en el asiento central de un bloque central en aviones de doble pasillo, siempre que no bloqueen el acceso de otro pasajero hacia el pasillo) y nunca en filas de salida de emergencia."
+    },
+    {
+      "q": "¿Qué ocurre con un coche en Gate Check si tengo una escala corta de menos de una hora?",
+      "a": "En conexiones cortas menores a 60 minutos, esperar entre 10 y 15 minutos en el puente de desembarque a que descarguen los coches de Gate Check puede comprometer tu carrera hacia la siguiente puerta. Para itinerarios con escalas muy ajustadas conviene llevar un modelo tríptico de cabina (como gb Pockit+, YOYO3 o Joolz Aer+) que baje contigo al instante."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +140,6 @@
     "/viajar-en-avion-cabina-y-gate-check/politica-coche-bebe-american-airlines-doona-2-en-1-silla-auto/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-viajar-en-avion-cabina-y-gate-check.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/viajar-en-avion-cabina-y-gate-check.webp"
 }

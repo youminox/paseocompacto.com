@@ -4,152 +4,154 @@
   "path": "/resenas-coches-compactos-de-viaje/",
   "isPillar": true,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "resenas de coches de bebe compactos para viajar amazon usa",
   "title": "Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU. (Ingenuity, Kolcraft y Doona)",
   "seoTitle": "Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU. (Ingenuity, Kolcraft y Doona) | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre análisis modelo por modelo de coches compactos de Ingenuity, Kolcraft, Doona y referentes de cabina en Amazon Estados Unidos, evaluando peso en lb/kg, medidas plegado, cierre con una mano y espacio en la maletera. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 110 guías sobre análisis modelo por modelo de coches compactos de Ingenuity, Kolcraft, Doona y referentes de cabina en Amazon Estados Unidos, evaluando peso en lb/kg, medidas plegado, cierre con una mano y espacio en la maletera con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 110 guías sobre análisis modelo por modelo de coches compactos de Ingenuity, Kolcraft, Doona y referentes de cabina en Amazon Estados Unidos, evaluando peso en lb/kg, medidas plegado, cierre con una mano y espacio en la maletera. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Reseñas técnicas de coches compactos en Amazon EE. UU.: peso en lb/kg, medidas de plegado y prueba de maletera para Ingenuity, Kolcraft y Doona.",
+  "excerpt": "Exploramos a fondo el catálogo de coches ligeros disponible en Amazon Estados Unidos, desglosando geometría de cierre, límite de peso por etapa y encaje real en aviones y cajuelas familiares.",
+  "quickAnswer": "Al elegir un coche compacto en Amazon EE. UU., la geometría de plegado importa tanto como las libras: el Ingenuity 3Dlite (13 lb, 109 cm de largo) va en Gate Check y libera más del 75 % del sedán; el Kolcraft Cloud Plus (11.8 lb) pliega con una mano a 86 cm y queda de pie junto a maletas grandes; el Doona 2-en-1 certificado FAA resuelve vuelos y taxis con bebés de 4 a 35 lb sin ocupar cajuela; y los ultracompactos como gb Pockit+ entran directo al Overhead Bin IATA.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Editorial travel lifestyle photograph with shallow depth of field (85mm f/2.8 lens): editorial lineup of lightweight folded travel strollers on a light oak airport lounge floor beside cabin luggage and carry straps, next to a waterproof bright red gate-check travel bag with backpack straps, warm golden-hour afternoon sunlight during family travel. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "High-angle 45-degree trunk-packing perspective on 28mm wide-angle lens: 2-in-1 infant car seat stroller with integrated retractable wheels in soft stone gray fabric with polished silver umbrella struts, in an outdoor shopping promenade with smooth limestone pavers, warm golden-hour afternoon sunlight with natural rim glow. Topic focus: resenas coches compactos de viaje. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU. (Ingenuity, Kolcraft y Doona)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU. (Ingenuity, Kolcraft y Doona)** en **PaseoCompacto.com**. Aquí reunimos nuestras **110 guías verificadas** sobre **análisis modelo por modelo de coches compactos de Ingenuity, Kolcraft, Doona y referentes de cabina en Amazon Estados Unidos, evaluando peso en lb/kg, medidas plegado, cierre con una mano y espacio en la maletera**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Comprar un coche de viaje desde Latinoamérica o dentro de Estados Unidos a través de Amazon exige leer mucho más allá de la etiqueta comercial \"lightweight\". Un chasis de **13 lb (5.9 kg)** que mide **43 pulgadas (109 cm)** cerrado se comporta de forma radicalmente distinta en el filtro del aeropuerto o en la cajuela de un sedán alquilado que uno de **17.5 lb (7.9 kg)** con plegado cuadrado tipo libro. En este centro de reseñas técnicas evaluamos cada modelo bajo cuatro variables reales: peso al hombro, mecánica de cierre, espacio libre para equipaje y normativa aérea."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU."
+      "text": "Cómo auditamos cada coche compacto del catálogo de Amazon EE. UU."
     },
     {
       "type": "p",
-      "text": "En cada una de las **110 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "Las fichas de producto suelen declarar el peso sin capota ni bandeja o confunden la entrega gratuita en puerta de embarque (*Gate Check*) con el ingreso real al compartimento superior de cabina (*Overhead Bin*). Por eso nuestras guías individuales traducen las libras y pulgadas del mercado estadounidense a situaciones cotidianas: subir escaleras del metro cargando al bebé en un brazo, acomodar dos maletas de **23 kg** en la cajuela de un sedán o un hatchback corto, y comprobar el aplomo de las ruedas en veredas irregulares sin atarnos a tarifas fijas, ya que la disponibilidad y las ofertas cambian a diario en Amazon.com según el color elegido."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "1. Geometría de plegado antes que peso aislado",
+          "text": "Clasificamos cada chasis en bastón 3D alargado (104–109 cm), plegado vertical autoportante (86 cm), libro cuadrado (52–56 cm) o microplegado IATA (menos de 55 cm) para saber con exactitud dónde viajará en avión y auto."
+        },
+        {
+          "name": "2. Prueba real de cierre con una sola mano",
+          "text": "Separamos los mecanismos que pliegan de verdad con un giro o botón en la barra superior frente a los cierres tipo paraguas de dos movimientos que exigen destrabar un pedal trasero con el pie."
+        },
+        {
+          "name": "3. Huella en maletera junto al equipaje familiar",
+          "text": "Verificamos cuánto volumen útil queda para valijas grandes al ubicar el coche en diagonal al fondo de un sedán, de pie en un hatchback compacto o abrochado directamente en el asiento trasero."
+        },
+        {
+          "name": "4. Límite estructural y ángulo de descanso",
+          "text": "Contrastamos la vida útil real —desde las 35 lb (15.8 kg) de un sistema infantil 2-en-1 hasta las 50–55 lb (22.6–25 kg) de sillas longevas— junto con las posiciones de reclinado para siestas en ruta."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Radiografía por marcas: Ingenuity, Kolcraft, Doona y referentes IATA"
+    },
+    {
+      "type": "p",
+      "text": "Dentro del segmento práctico para vacaciones intensas, **Ingenuity** cubre tres necesidades bien diferenciadas. Como desglosamos en la [reseña técnica del Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/), su estructura de aluminio de **13 lb (5.9 kg)** soporta hasta **50 lb (22.6 kg)**, reclina en **4 posiciones** y cierra en bastón 3D de **43\" × 10\" × 12\" (109 × 25 × 30 cm)** con correa al hombro, dejando más del **75 %** de la maletera de un sedán libre. Para escapadas urbanas rápidas, el **Ingenuity 3Dmini** baja a **11 lb (4.9 kg)** hasta **45 lb (20.4 kg)**, mientras que la [reseña del Ingenuity 3Dquickclose CS+](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/) examina su plegado libro de **22\" × 20.5\" × 12.5\" (56 × 52 × 32 cm)** con una sola mano desde el asa del asiento y acople para portabebé de auto."
+    },
+    {
+      "type": "p",
+      "text": "En paralelo, **Kolcraft** destaca por agilidad operativa cuando llevas las manos ocupadas. Nuestro [análisis del Kolcraft Cloud Plus Lightweight](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/) detalla cómo su chasis de **11.8 lb (5.3 kg)** pliega verticalmente a **18\" × 12\" × 34\" (46 × 30 × 86 cm)** desde la barra corrida superior, sosteniéndose de pie solo junto a doble bandeja para padres y niño hasta **50 lb**. Si vuelas o tomas taxis con un recién nacido de **4 a 35 lb (1.8 a 15.8 kg)** y hasta **32\" (81 cm)**, la [reseña completa del Doona Car Seat & Stroller 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/) explica su transformación de **16.5 lb (7.5 kg)** en un segundo con certificación **FAA y FMVSS 213**, ocupando **0 litros** de cajuela. Y para quienes buscan subir el coche al *Overhead Bin* sin esperar en manga, analizamos referentes IATA como **gb Pockit+ All-Terrain** (**12.3 lb**), **Joolz Aer+** (**13.2 lb**), **Stokke YOYO3** (**13.6 lb**) y **Bugaboo Butterfly** (**16.1 lb**)."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU.",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Modelo evaluado",
+        "Peso y soporte máx.",
+        "Medidas plegado (in / cm)",
+        "Ubicación en avión y maletera"
       ],
       "rows": [
         [
-          "Ingenuity 3Dlite Convenience Stroller: Reseña Real (Peso, Medidas Plegado, Cierre y Maletera)",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)"
+          "**Ingenuity 3Dlite Convenience**",
+          "13 lb (5.9 kg) / 50 lb",
+          "43\" × 10\" × 12\" (109 × 25 × 30 cm)",
+          "Gate Check / Diagonal en sedán (+75 % libre)"
         ],
         [
-          "Kolcraft Cloud Plus Lightweight Easy-Fold: Reseña del Mejor Plegado con 1 Mano (11.8 lb y Maletera)",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)"
+          "**Kolcraft Cloud Plus**",
+          "11.8 lb (5.3 kg) / 50 lb",
+          "18\" × 12\" × 34\" (46 × 30 × 86 cm)",
+          "Gate Check / De pie junto a 2 maletas de 23 kg"
         ],
         [
-          "Doona Car Seat & Stroller (2-en-1 FAA): Reseña Completa para Avión, Taxi y Maletera 100 % Libre",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)"
+          "**Ingenuity 3Dquickclose CS+**",
+          "17.5 lb (7.9 kg) / 50 lb",
+          "22\" × 20.5\" × 12.5\" (56 × 52 × 32 cm)",
+          "Gate Check / Cajuelas cortas de hatchback"
         ],
         [
-          "Ingenuity 3Dmini Convenience Stroller: Reseña Ultraligera de 11 lb para Vuelos, Taxis y Presupuesto",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dmini-convenience-stroller-resena-viaje-economico/)"
+          "**Doona 2-en-1 Car Seat**",
+          "16.5 lb (7.5 kg) / 35 lb",
+          "23.6\" × 17.3\" × 26\" (60 × 44 × 66 cm)",
+          "Asiento avión FAA / 100 % maletera libre"
         ],
         [
-          "Ingenuity 3Dquickclose CS+ Compact Fold: Reseña Plegado Libro con 1 Mano y Maletera Corta",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)"
-        ],
-        [
-          "Kolcraft Cloud Umbrella Stroller: Reseña Ultraligera (9.5–11 lb) para Aeropuertos y Abuelos",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/kolcraft-cloud-umbrella-stroller-resena-ultraligero-verano/)"
-        ],
-        [
-          "Ingenuity 3Dlite Convenience (Chasis Aluminio): Peso Real (lb/kg), Medidas al Plegarse y Límite del Bebé",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-edicion-reclinable-peso-real-y-medidas-al-plegarse/)"
-        ],
-        [
-          "Ingenuity 3Dlite Convenience (Chasis Aluminio): Facilidad de Plegado con Una Mano, Manillar y Reclinado",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-edicion-reclinable-prueba-plegado-una-mano-y-ergonomia/)"
-        ],
-        [
-          "Ingenuity 3Dlite Convenience (Chasis Aluminio): Cuánto Espacio Deja en la Maletera y Si Entra en Avión",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-edicion-reclinable-espacio-en-maletera-y-avion/)"
-        ],
-        [
-          "Ingenuity 3Dlite Convenience (Chasis Aluminio): Bolso de Transporte, Protector de Lluvia y Organizador Compatible en Amazon",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-edicion-reclinable-accesorios-compatibles-bolso-lluvia-organizador/)"
-        ],
-        [
-          "Ingenuity 3Dmini Convenience (11 lb): Peso Real (lb/kg), Medidas al Plegarse y Límite del Bebé",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dmini-convenience-ultraligero-peso-real-y-medidas-al-plegarse/)"
-        ],
-        [
-          "Ingenuity 3Dmini Convenience (11 lb): Facilidad de Plegado con Una Mano, Manillar y Reclinado",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dmini-convenience-ultraligero-prueba-plegado-una-mano-y-ergonomia/)"
-        ],
-        [
-          "Ingenuity 3Dmini Convenience (11 lb): Cuánto Espacio Deja en la Maletera y Si Entra en Avión",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dmini-convenience-ultraligero-espacio-en-maletera-y-avion/)"
-        ],
-        [
-          "Ingenuity 3Dmini Convenience (11 lb): Bolso de Transporte, Protector de Lluvia y Organizador Compatible en Amazon",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dmini-convenience-ultraligero-accesorios-compatibles-bolso-lluvia-organizador/)"
-        ],
-        [
-          "Ingenuity 3Dquickclose CS+ Compact Fold: Peso Real (lb/kg), Medidas al Plegarse y Límite del Bebé",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-plegado-libro-peso-real-y-medidas-al-plegarse/)"
-        ],
-        [
-          "Ingenuity 3Dquickclose CS+ Compact Fold: Facilidad de Plegado con Una Mano, Manillar y Reclinado",
-          "[Ver guía completa](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-plegado-libro-prueba-plegado-una-mano-y-ergonomia/)"
+          "**gb Pockit+ All-Terrain**",
+          "12.3 lb (5.6 kg) / 55 lb",
+          "13.4\" × 7.9\" × 16.5\" (34 × 20 × 42 cm)",
+          "Cabina IATA Overhead Bin / Bajo asiento auto"
         ]
-      ]
+      ],
+      "caption": "Ficha técnica verificada de los modelos clave analizados en Amazon Estados Unidos"
     },
     {
       "type": "callout",
       "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      "text": "Numerosos listados traducidos automáticamente etiquetan como \"apto para avión\" a cualquier coche liviano. Ten presente que los plegados tipo paraguas de 41 a 43 pulgadas (como Ingenuity 3Dlite, 3Dmini o Kolcraft Cloud Umbrella) no entran en los compartimentos superiores de cabina: viajan sin cargo entregándolos en la puerta del avión (Gate Check) dentro de una funda alargada de 43\".",
+      "title": "Atención a la etiqueta Cabina vs Gate Check al comprar en línea"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Detalles clave antes de elegir versión y accesorios en Amazon"
     },
     {
-      "type": "ol",
+      "type": "ul",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        "**Cambios de disponibilidad por acabado:** En líneas de alta rotación como Ingenuity 3Dlite o Contours Bitsy Elite (**12–13.6 lb**, plegado tríptico de **51–53 × 41–42 × 23 cm**), las promociones y tiempos de envío en EE. UU. varían según el color del tapizado aunque compartan exactamente el mismo chasis.",
+        "**Ergonomía del manillar y riesgo de vuelco:** Los modelos de doble manillar curvo requieren organizadores con tiras antideslizantes, mientras que Kolcraft Cloud Plus y Doona llevan barra corrida; evita colgar bolsos pañaleros que superen **1.5 kg** en chasis ligeros para mantener el centro de gravedad estable.",
+        "**Protección para bodega y lluvia:** Empareja los cierres paraguas con bolsos Gate Check de **43 pulgadas** y los cierres cuadrados o Doona con mochilas acolchadas, sumando burbujas impermeables de **EVA libre de PVC** con malla lateral ventilada y ventana frontal con cremallera."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Quieres confirmar qué reseña se ajusta mejor a la edad de tu bebé, la cajuela de tu auto o las reglas de tu aerolínea? Consulta a nuestro Asesor IA de viaje o revisa los colores y disponibilidad vigentes en las tarjetas de Amazon integradas en cada análisis."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Reseñas de Coches de Bebé Compactos para Viajar en Amazon EE. UU.?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Qué diferencia práctica hay entre la certificación JPMA y la norma FMVSS 213 en coches comprados en EE. UU.?",
+      "a": "La certificación voluntaria JPMA verifica estándares de frenado, estabilidad y arnés en coches de paseo como Ingenuity o Kolcraft, mientras que la norma federal FMVSS 213 es obligatoria para retención infantil contra impactos en automóvil, presente en el Doona 2-en-1 (sumada a su aprobación FAA para cabina aérea) y en los portabebés compatibles con el Ingenuity 3Dquickclose CS+."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Por qué un coche ultraligero de 11 lb puede resultar más difícil de acomodar que uno de 13.6 lb?",
+      "a": "Porque el largo del chasis cerrado condiciona el encaje más que la báscula: el Ingenuity 3Dmini pesa apenas 11 lb (4.9 kg), pero conserva 43 pulgadas (109 cm) de longitud tipo bastón; en cambio, un Stokke YOYO3 de 13.6 lb (6.2 kg) o un Joolz Aer+ de 13.2 lb compactan su estructura a un rectángulo plano de 52–53.5 cm que entra en el Overhead Bin o a los pies del asiento trasero."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Desde qué mes puede viajar un bebé en estos coches compactos sin usar silla de auto acoplada?",
+      "a": "A excepción del Doona (diseñado específicamente para recién nacidos desde 4 lb / 1.8 kg) o modelos con reclinado plano homologado desde nacimiento por el fabricante, los coches ligeros de viaje como Ingenuity 3Dlite, 3Dmini o Kolcraft Cloud Plus requieren sostén firme de cabeza y cuello, recomendándose a partir de los 6 meses hasta las 45 o 50 lb."
+    },
+    {
+      "q": "¿Es sencillo conseguir repuestos y accesorios universales en Amazon para los modelos de Ingenuity y Kolcraft?",
+      "a": "Sí, ambos fabricantes emplean dimensiones estándar en Estados Unidos: para los modelos de cierre bastón funcionan las fundas protectoras Gate Check de 43 pulgadas y protectores de lluvia universales en EVA, comprobando únicamente si el coche tiene doble manillar curvo (Ingenuity 3Dlite/3Dmini) o barra continua (Kolcraft Cloud Plus) al adquirir portavasos u organizadores."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +162,6 @@
     "/resenas-coches-compactos-de-viaje/ingenuity-3dmini-convenience-stroller-resena-viaje-economico/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-resenas-coches-compactos-de-viaje.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/resenas-coches-compactos-de-viaje.webp"
 }

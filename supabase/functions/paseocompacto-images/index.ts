@@ -41,17 +41,18 @@ Deno.serve(async (req: Request) => {
       return json({ ok: false, error: "unauthorized" }, 401);
     }
 
-    const { slug, prompt, size } = await req.json();
+    const { slug, prompt, size, skipStorage } = await req.json();
     if (!slug || !prompt || !/^[a-z0-9-]+$/.test(slug)) {
       throw new Error("slug (a-z0-9-) and prompt are required");
     }
     const fullPrompt = `${prompt}. ${STYLE}`;
     const imgSize = size === "square" ? "1024x1024" : "1536x1024";
 
+    let b64Out = "";
     let bytes: Uint8Array | null = null;
     let modelUsed = "";
     const errors: string[] = [];
-    for (const model of ["gpt-image-1", "gpt-image-1-mini"]) {
+    for (const model of ["gpt-image-1-mini", "gpt-image-1"]) {
       const r = await fetch("https://api.openai.com/v1/images/generations", {
         method: "POST",
         headers: {
@@ -71,6 +72,7 @@ Deno.serve(async (req: Request) => {
       const j = await r.json();
       const b64 = j?.data?.[0]?.b64_json;
       if (b64) {
+        b64Out = b64;
         bytes = b64ToBytes(b64);
         modelUsed = model;
         break;
@@ -79,17 +81,22 @@ Deno.serve(async (req: Request) => {
     }
     if (!bytes) throw new Error(errors.join(" | "));
 
-    const objectPath = `paseocompacto/${slug}.webp`;
-    const { error: upErr } = await supabase.storage
-      .from("content-images")
-      .upload(objectPath, bytes, {
-        contentType: "image/webp",
-        upsert: true,
-      });
-    if (upErr) throw new Error(`upload: ${upErr.message}`);
-    const { data } = supabase.storage
-      .from("content-images")
-      .getPublicUrl(objectPath);
+    let publicUrl = "";
+    if (!skipStorage) {
+      const objectPath = `paseocompacto/${slug}.webp`;
+      const { error: upErr } = await supabase.storage
+        .from("content-images")
+        .upload(objectPath, bytes, {
+          contentType: "image/webp",
+          upsert: true,
+        });
+      if (!upErr) {
+        const { data } = supabase.storage
+          .from("content-images")
+          .getPublicUrl(objectPath);
+        publicUrl = data.publicUrl;
+      }
+    }
 
     await supabase.from("token_usage").insert({
       source: "paseocompacto.com",
@@ -103,7 +110,7 @@ Deno.serve(async (req: Request) => {
       slug,
     });
 
-    return json({ ok: true, url: data.publicUrl, model: modelUsed });
+    return json({ ok: true, url: publicUrl, b64: b64Out, model: modelUsed });
   } catch (e) {
     return json({ ok: false, error: String((e as Error).message || e) }, 500);
   }

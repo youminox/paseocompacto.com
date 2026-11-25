@@ -4,152 +4,138 @@
   "path": "/guias-de-plegado-peso-y-medidas/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como plegar coche de bebe con una mano peso y medidas",
   "title": "Guías de Plegado con Una Mano, Peso Real (lb/kg) y Conversión de Medidas (in/cm)",
   "seoTitle": "Guías de Plegado con Una Mano, Peso Real (lb/kg) y Conversión de Medidas (in/cm) | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre tutoriales prácticos de mecanismos de cierre rápido con una mano, bloqueo de chasis, correas de hombro y equivalencias exactas de pulgadas y libras de Amazon EE. UU.. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 130 guías sobre tutoriales prácticos de mecanismos de cierre rápido con una mano, bloqueo de chasis, correas de hombro y equivalencias exactas de pulgadas y libras de Amazon EE. UU. con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 130 guías sobre tutoriales prácticos de mecanismos de cierre rápido con una mano, bloqueo de chasis, correas de hombro y equivalencias exactas de pulgadas y libras de Amazon EE. UU.. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Aprende cómo plegar un coche de bebé con una mano, comparar mecanismos reales y convertir libras (lb) y pulgadas (in) de Amazon EE. UU. a kg y cm exactos.",
+  "excerpt": "Domina la diferencia entre el verdadero cierre a una mano y el plegado paraguas asistido con el pie, junto con las equivalencias exactas de peso y dimensiones para comprar en Estados Unidos sin errores.",
+  "quickAnswer": "El verdadero plegado con una sola mano requiere un gatillo en barra corrida superior (como Kolcraft Cloud Plus de 11.8 lb / 5.3 kg o Bugaboo Butterfly) o un asa central en el asiento (Ingenuity 3Dquickclose CS+), mientras que los coches paraguas de doble manillar (Ingenuity 3Dlite de 13 lb / 5.9 kg) usan dos pasos asistidos con el pie. Al leer fichas de EE. UU., multiplica lb × 0.453 para obtener kg e in × 2.54 para pasar a cm.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Editorial travel lifestyle photograph with shallow depth of field (85mm f/2.8 lens): parent holding a toddler on one hip while folding a lightweight compact stroller effortlessly with the free hand on a driveway, beside a compact rental hatchback open rear cargo hatch, warm golden-hour afternoon sunlight during family travel. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Crisp outdoor patio stone demonstration angle on 40mm lens: parent holding a toddler on one hip while folding a lightweight compact stroller effortlessly with the free hand on a driveway in deep navy blue canopy with matte black anodized aluminum frame, beside an airport baggage scale and check-in counter area, bright garage door daylight illuminating the trunk interior clearly. Topic focus: guias de plegado peso y medidas. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guías de Plegado con Una Mano, Peso Real (lb/kg) y Conversión de Medidas (in/cm)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Guías de Plegado con Una Mano, Peso Real (lb/kg) y Conversión de Medidas (in/cm)** en **PaseoCompacto.com**. Aquí reunimos nuestras **130 guías verificadas** sobre **tutoriales prácticos de mecanismos de cierre rápido con una mano, bloqueo de chasis, correas de hombro y equivalencias exactas de pulgadas y libras de Amazon EE. UU.**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Sostener a un bebé dormido sobre la cadera frente a las escaleras del metro o en el túnel de embarque del avión pone a prueba cualquier promesa publicitaria: ahí descubres al instante si un coche cierra de verdad con una sola mano libre o si te obliga a agacharte y usar las dos manos más el pie. Además, al comprar modelos del catálogo de Amazon Estados Unidos, interpretar bien las libras (**lb**) y pulgadas (**in**) evita llevarte un chasis más pesado o largo de lo que permite tu rutina diaria."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Guías de Plegado con Una Mano, Peso Real"
+      "text": "Cierre auténtico con una sola mano frente al plegado paraguas asistido"
     },
     {
       "type": "p",
-      "text": "En cada una de las **130 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "En mecánica de coches ligeros existen tres sistemas muy distintos que conviene diferenciar antes de viajar solo con tu hijo. El **verdadero cierre a una mano desde el manillar** exige una barra corrida superior: el **Kolcraft Cloud Plus** (**11.8 lb / 5.3 kg**) incorpora un gatillo giratorio central que pliega el chasis en **18\" × 12\" × 34\" (46 × 30 × 86 cm)** y lo deja de pie por sí solo sin tocar el suelo húmedo, igual que modelos de cabina de un segundo como el **Bugaboo Butterfly** (**16.1 lb / 7.3 kg**) o el **Joolz Aer+** (**13.2 lb / 6 kg**). Una segunda variante muy ágil es el **tirador central en el asiento**, presente en el **Ingenuity 3Dquickclose CS+** (**17.5 lb / 7.9 kg**), que se recoge en bloque cuadrado (**22\" × 20.5\" × 12.5\" / 56 × 52 × 32 cm**) jalando una cinta textil hacia arriba; puedes ver la técnica exacta en nuestra guía sobre [cómo cerrar el coche con una sola mano mientras cargas al bebé](/guias-de-plegado-peso-y-medidas/como-cerrar-coche-bebe-con-una-sola-mano-mientras-cargas-bebe/). En cambio, los superventas de doble manillar curvo como el **Ingenuity 3Dlite** (**13 lb / 5.9 kg**) y el **3Dmini** (**11 lb / 4.9 kg**) utilizan un **plegado paraguas 3D de dos movimientos** (levantar el seguro trasero con la punta del pie y presionar la palanca lateral), detallado en el tutorial de [plegado paraguas 3D de Ingenuity en puerta de embarque con prisa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-en-puerta-de-embarque-con-prisa/)."
+    },
+    {
+      "type": "h3",
+      "text": "Seguro automático lateral y correas para subir escaleras"
+    },
+    {
+      "type": "p",
+      "text": "Cerrar el coche es solo la mitad de la maniobra; si el chasis no queda bloqueado, los tubos se abren a mitad de la escalera y golpean tus tobillos. Antes de alzar el coche del pavimento, confirma siempre el clic de retención siguiendo nuestra pauta para [revisar el seguro automático lateral antes de cargar el chasis](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-revisando-seguro-automatico-lateral/). Una vez trabado, modelos como el **Ingenuity 3Dlite** o el **Babyzen YOYO2 / Stokke YOYO3** (**13.6 lb / 6.2 kg**, **52 × 44 × 18 cm**) incluyen cinta de transporte para liberar ambos brazos, algo clave al [usar la correa acolchada al hombro sin golpear escalones](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-usando-correa-acolchada-hombro/)."
+    },
+    {
+      "type": "h2",
+      "text": "Conversión exacta de libras (lb) y pulgadas (in) en Amazon EE. UU."
+    },
+    {
+      "type": "p",
+      "text": "Las fichas técnicas estadounidenses expresan masa y tamaño en sistema imperial: multiplica las libras por **0.453** para obtener kilogramos reales (**10 lb = 4.5 kg**, **13 lb = 5.9 kg**, **17.5 lb = 7.9 kg**) y multiplica las pulgadas por **2.54** para pasar a centímetros (**20\" = 50.8 cm**, **43\" = 109.2 cm**). Revisa con lupa dos datos que suelen confundir en los listados de compra: distingue entre *Item Weight* (peso neto del coche) y *Shipping Weight* (que suma de 2 a 4 lb de caja de cartón), y asegúrate de leer las *Folded Dimensions* (cerrado) en vez de las medidas ensamblado. Como referencia viajera, un compartimento superior de cabina **IATA** admite alrededor de **55 × 35–40 × 20–23 cm** (**21.6\" × 14–15.7\" × 8–9\"**); todo lo que supere esa longitud, como los **43\" (109 cm)** de un paraguas o las **34\" (86 cm)** del Kolcraft Cloud Plus, se entrega sin costo en la puerta del avión mediante **Gate Check**."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Guías de Plegado con Una Mano, Peso Real",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Modelo verificado",
+        "Peso neto (lb / kg)",
+        "Medidas cerrado (in / cm)",
+        "Mecanismo y portabilidad"
       ],
       "rows": [
         [
-          "Cómo Cerrar un Coche de Bebé con Una Sola Mano Mientras Cargas al Bebé (Técnicas por Mecanismo)",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/como-cerrar-coche-bebe-con-una-sola-mano-mientras-cargas-bebe/)"
+          "Ingenuity 3Dmini Convenience",
+          "11 lb / 4.9 kg",
+          "43\" × 9.5\" × 10.5\" (109 × 24 × 27 cm)",
+          "2 pasos (pie + traba lateral), ultraligero urbano"
         ],
         [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity en Puerta de Embarque con Prisa",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-en-puerta-de-embarque-con-prisa/)"
+          "Kolcraft Cloud Plus Easy-Fold",
+          "11.8 lb / 5.3 kg",
+          "18\" × 12\" × 34\" (46 × 30 × 86 cm)",
+          "1 sola mano real en barra superior, queda de pie solo"
         ],
         [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Subiendo al Auto Bajo Lluvia",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-subiendo-al-auto-bajo-lluvia/)"
+          "Ingenuity 3Dlite Convenience",
+          "13 lb / 5.9 kg",
+          "43\" × 10\" × 12\" (109 × 25 × 30 cm)",
+          "2 pasos paraguas 3D, incluye correa al hombro"
         ],
         [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Con el Bebé en Brazos",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-con-el-bebe-dormido-en-brazos/)"
+          "Babyzen YOYO2 / Stokke YOYO3",
+          "13.6 lb / 6.2 kg",
+          "20.5\" × 17.3\" × 7.1\" (52 × 44 × 18 cm)",
+          "Plegado cabina IATA, correa acolchada tipo bolso"
         ],
         [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Para Cargarlo al Hombro",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-usando-correa-acolchada-hombro/)"
-        ],
-        [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Confirmando el Clic del Seguro",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-revisando-seguro-automatico-lateral/)"
-        ],
-        [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Sin Pellizcos en Dedos ni Tela",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-evitando-pellizcos-en-bisagras/)"
-        ],
-        [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity en Escaleras de Metro y Transporte",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-en-estaciones-de-metro-y-bus/)"
-        ],
-        [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Antes de Meterlo al Bolso Gate Check",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-antes-de-meterlo-en-bolso-gate-check/)"
-        ],
-        [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity en Modelos Ingenuity y Kolcraft",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-comparando-modelos-ingenuity-kolcraft/)"
-        ],
-        [
-          "Cómo Plegar Correctamente el Sistema 3D de Ingenuity Cuando Viajas Solo con Tu Bebé",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-mientras-viajas-solo-con-bebe/)"
-        ],
-        [
-          "Técnica de Cierre Rápido en Barra de Kolcraft Cloud Plus en Puerta de Embarque con Prisa",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-una-mano-manillar-kolcraft-cloud-en-puerta-de-embarque-con-prisa/)"
-        ],
-        [
-          "Técnica de Cierre Rápido en Barra de Kolcraft Cloud Plus Subiendo al Auto Bajo Lluvia",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-una-mano-manillar-kolcraft-cloud-subiendo-al-auto-bajo-lluvia/)"
-        ],
-        [
-          "Técnica de Cierre Rápido en Barra de Kolcraft Cloud Plus Con el Bebé en Brazos",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-una-mano-manillar-kolcraft-cloud-con-el-bebe-dormido-en-brazos/)"
-        ],
-        [
-          "Técnica de Cierre Rápido en Barra de Kolcraft Cloud Plus Para Cargarlo al Hombro",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-una-mano-manillar-kolcraft-cloud-usando-correa-acolchada-hombro/)"
-        ],
-        [
-          "Técnica de Cierre Rápido en Barra de Kolcraft Cloud Plus Confirmando el Clic del Seguro",
-          "[Ver guía completa](/guias-de-plegado-peso-y-medidas/plegado-una-mano-manillar-kolcraft-cloud-revisando-seguro-automatico-lateral/)"
+          "Ingenuity 3Dquickclose CS+",
+          "17.5 lb / 7.9 kg",
+          "22\" × 20.5\" × 12.5\" (56 × 52 × 32 cm)",
+          "1 sola mano desde asa central en el asiento"
         ]
-      ]
+      ],
+      "caption": "Equivalencias verificadas de peso neto, tamaño plegado y mecanismo de cierre"
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      "variant": "tip",
+      "text": "Un protector de lluvia mal doblado, un termo rígido o juguetes olvidados en la cesta inferior impiden que las tijeras metálicas lleguen al final de su recorrido. Nunca pises ni fuerces el manillar si notas resistencia elástica al final del cierre: despeja la canasta primero para que el seguro lateral enganche limpio sin doblar remaches.",
+      "title": "Vacía siempre la canasta inferior antes de accionar el plegado"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Fallos mecánicos frecuentes al cerrar con prisa y cómo evitarlos"
     },
     {
-      "type": "ol",
+      "type": "ul",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        "**Ruedas delanteras atravesadas:** si las horquillas giratorias quedan a 90 grados, pueden chocar contra los tubos laterales al compactarse; avanza diez centímetros hacia adelante antes de plegar para alinear las llantas automáticamente.",
+        "**Capota extendida o respaldo abajo:** en chasis tipo paraguas como Ingenuity 3Dlite o Kolcraft Cloud Umbrella (41\" × 11\" × 9\" / 104 × 28 × 23 cm), recoge primero el toldo solar para que la tela no quede pellizcada entre las ruedas traseras.",
+        "**Bandejas o adaptadores mal orientados:** verifica que la bandeja infantil del Kolcraft Cloud Plus o el acople de silla en el Ingenuity 3Dquickclose CS+ estén en su posición natural de reposo.",
+        "**Zonas de pellizco en bisagras:** mantén siempre los dedos del niño lejos de las articulaciones laterales de tijera durante la apertura y el cierre hasta oír el clic firme de bloqueo."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Dudas entre el peso en libras de dos modelos o necesitas confirmar qué cierre se adapta mejor a tus viajes? Consulta a nuestro Asesor IA o revisa colores y especificaciones vigentes en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Guías de Plegado con Una Mano, Peso Real?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Todos los coches compactos con etiqueta \"plegado fácil\" se cierran con una sola mano?",
+      "a": "No. Un coche con doble manillar curvo separado (como Ingenuity 3Dlite o 3Dmini) carece de puente central, por lo que requiere desbloquear primero la cruceta trasera con el pie y luego accionar la palanca lateral. Si necesitas cerrar el chasis sosteniendo al bebé en un brazo sin agacharte, elige barra corrida superior (Kolcraft Cloud Plus, Bugaboo Butterfly) o tirador central en el asiento (Ingenuity 3Dquickclose CS+)."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Qué diferencia hay entre \"Item Weight\" y \"Maximum Weight Recommendation\" en Amazon EE. UU.?",
+      "a": "El \"Item Weight\" es lo que tú cargas en escaleras o levantas a la maletera (por ejemplo, 11.8 lb / 5.3 kg en el Kolcraft Cloud Plus), mientras que el \"Maximum Weight Recommendation\" indica hasta cuánto peso infantil soporta el asiento (50 lb / 22.6 kg en ese mismo modelo). Son dos cifras independientes que no deben sumarse ni confundirse."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Qué modelos compactos se mantienen de pie solos después de plegarlos?",
+      "a": "El Kolcraft Cloud Plus (46 × 30 × 86 cm), el Contours Bitsy Elite, el Bugaboo Butterfly y el UPPAbaby Minu V2 quedan parados verticalmente sobre sus ruedas al bloquearse. En cambio, los formatos paraguas 3D suelen requerir apoyarse contra una pared o acostarse en el suelo para no resbalar."
+    },
+    {
+      "q": "¿Se puede retraer el tren de ruedas del Doona con el bebé adentro antes de subir al auto?",
+      "a": "En el sistema Doona Car Seat & Stroller (16.5 lb / 7.5 kg), nunca se pliega cuando el bebé está dentro si vas a levantarlo en vilo por escaleras, pero en suelo firme puedes apretar el botón trasero y retraer las patas bajo la carcasa en un segundo con el bebé asegurado en su arnés para sentarlo directo en el auto o taxi."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +146,6 @@
     "/guias-de-plegado-peso-y-medidas/plegado-paraguas-3d-ingenuity-paso-a-paso-con-el-bebe-dormido-en-brazos/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-guias-de-plegado-peso-y-medidas.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/guias-de-plegado-peso-y-medidas.webp"
 }

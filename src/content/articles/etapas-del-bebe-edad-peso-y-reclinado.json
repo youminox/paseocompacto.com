@@ -4,152 +4,132 @@
   "path": "/etapas-del-bebe-edad-peso-y-reclinado/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "desde que edad usar coche compacto de viaje reclinado y peso",
   "title": "Etapas del Bebé en Viaje: Desde Recién Nacido (0m) hasta 50 lb (22.6 kg) y Siestas Cómodas",
   "seoTitle": "Etapas del Bebé en Viaje: Desde Recién Nacido (0m) hasta 50 lb (22.6 kg) y Siestas Cómodas | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre qué coche compacto corresponde por edad y control cervical, ángulos de reclinado para siestas en aeropuertos, reposapiés ajustables y límites máximos hasta 4 años. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 120 guías sobre qué coche compacto corresponde por edad y control cervical, ángulos de reclinado para siestas en aeropuertos, reposapiés ajustables y límites máximos hasta 4 años con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 120 guías sobre qué coche compacto corresponde por edad y control cervical, ángulos de reclinado para siestas en aeropuertos, reposapiés ajustables y límites máximos hasta 4 años. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Descubre desde qué edad usar un coche compacto de viaje según el control cervical, ángulo de reclinado para siestas y soporte real hasta 50 lb (22.6 kg).",
+  "excerpt": "Guía por etapas evolutivas para elegir el coche de viaje adecuado desde recién nacido hasta niños de cuatro años: postura respiratoria, reclinado para dormir en escalas y topes reales de peso y altura.",
+  "quickAnswer": "Antes de los 6 meses (sin control firme de cuello), el bebé debe viajar en un sistema 2-en-1 como Doona (4–35 lb y hasta 32\"), en un coche compacto con silla de auto acoplada (Ingenuity 3Dquickclose CS+) o en cuna plana 180° (Ergobaby Metro+). Desde los 6 meses ya puede usar asientos compactos reclinables como Ingenuity 3Dlite o Kolcraft Cloud Plus, cuyos chasis resisten hasta 50 lb (22.6 kg) para cubrir hasta los 4 años.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Three-quarter product angle from slightly above on clean oak flooring (50mm lens): comfortable compact travel stroller reclined gently under an extended UV canopy during a peaceful afternoon stroll, beside a dual-cup insulated handlebar organizer and diaper travel pouch, clean sunlit modern garage illumination showing trunk dimensions clearly. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Diagonal dynamic walkway framing with crisp motion-frozen wheels on 50mm lens: comfortable compact travel stroller reclined gently under an extended UV canopy during a peaceful afternoon stroll, in deep comfortable nap recline mode with padded infant support and adjustable calf rest in midnight blue melange seat with light gray ventilated mesh panels, in a hotel guest-room entryway next to a luggage rack, bright sunlit curb-side natural photography lighting. Topic focus: etapas del bebe edad peso y reclinado. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Etapas del Bebé en Viaje: Desde Recién Nacido (0m) hasta 50 lb (22.6 kg) y Siestas Cómodas"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Etapas del Bebé en Viaje: Desde Recién Nacido (0m) hasta 50 lb (22.6 kg) y Siestas Cómodas** en **PaseoCompacto.com**. Aquí reunimos nuestras **120 guías verificadas** sobre **qué coche compacto corresponde por edad y control cervical, ángulos de reclinado para siestas en aeropuertos, reposapiés ajustables y límites máximos hasta 4 años**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Sentar a un bebé de dos meses en un coche ligero común sin reclinado horizontal ni reductor anatómico provoca que su barbilla caiga contra el pecho, comprometiendo la vía aérea porque su cuello aún no sostiene el peso de la cabeza. En el extremo opuesto, comprar un sistema exclusivo de lactante cuando tu hijo ya bordea el año acorta su vida útil a pocas semanas. Elegir coche de viaje exige alinear el tono muscular real del bebé, la inclinación para sus siestas y el tope estructural en libras y centímetros."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Etapas del Bebé en Viaje"
+      "text": "Recién nacidos de 0 a 6 meses: soporte cervical y sistemas compatibles"
     },
     {
       "type": "p",
-      "text": "En cada una de las **120 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "Durante el primer semestre la columna vertebral necesita apoyo continuo sin flexión forzada del tronco, criterio esencial para [cuidar la espalda y cadera del bebé en los primeros meses](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-cuidando-la-espalda-y-cadera-del-bebe/). Para volar o moverse en auto desde el día cero existen tres soluciones seguras. La primera es el **Doona Car Seat & Stroller** (**16.5 lb / 7.5 kg**), homologado desde **4 hasta 35 lb (1.8–15.8 kg)** con cojín reductor neonatal que mantiene despejada la respiración; revisa todos los detalles para [viajar con recién nacido de 0 a 3 meses usando Doona](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-usando-doona-silla-2-en-1/). La segunda opción consiste en acoplar tu portabebé de auto sobre un chasis compacto compatible, como al [combinar el Ingenuity 3Dquickclose CS+ con huevito](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-en-ingenuity-3dquickclose-cs-con-huevito/) (**17.5 lb / 7.9 kg**) o usar el **Graco NimbleLite** (**15 lb**). La tercera vía son coches de cabina con cuna plana integrada o capazo textil 0+, como el **Ergobaby Metro+** (**17.2 lb**) o el **Babyzen YOYO2 / Stokke YOYO3** con pack recién nacido."
+    },
+    {
+      "type": "h2",
+      "text": "De 6 a 18 meses: ángulo de reclinado, ventilación y siestas en ruta"
+    },
+    {
+      "type": "p",
+      "text": "Cuando el pequeño ya mantiene el tronco erguido sin ayuda lateral —hito que analizamos a fondo en [desde qué mes puede ir el bebé en un coche compacto de viaje](/etapas-del-bebe-edad-peso-y-reclinado/desde-que-mes-puede-ir-bebe-en-coche-compacto-de-viaje/)—, las escalas largas de aeropuerto y los paseos de día entero dependen de la calidad del descanso. El **Ingenuity 3Dlite** (**13 lb / 5.9 kg**) ofrece **4 posiciones de reclinado** mecánico muy generosas para dormir durante horas, mientras que el **Kolcraft Cloud Plus** (**11.8 lb / 5.3 kg**) regula su inclinación mediante correa trasera gradual e incorpora doble bandeja para biberón y snacks. Si viajas a playas o climas húmedos, el **Kolcraft Cloud Umbrella** (**9.5–11 lb / 4.3–4.9 kg**) permite enrollar la tela trasera dejando una malla ventilada fresca, y modelos como el **Bugaboo Butterfly** o el **UPPAbaby Minu V2** añaden reposapiés ajustable que evita que las pantorrillas cuelguen durante la siesta."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Etapas del Bebé en Viaje: Desde Recién Nacido",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Etapa del niño",
+        "Requisito postural clave",
+        "Modelos compactos destacados",
+        "Tope certificado (peso / talla)"
       ],
       "rows": [
         [
-          "¿Desde Qué Mes Puede Ir un Bebé en un Coche Compacto de Viaje? Reclinado, Soporte Cervical y Peso",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/desde-que-mes-puede-ir-bebe-en-coche-compacto-de-viaje/)"
+          "Recién nacido (0 a 6 meses)",
+          "Soporte cervical total, huevito o cuna plana 180°",
+          "Doona 2-en-1, Ingenuity 3Dquickclose CS+ (con silla), Ergobaby Metro+",
+          "Doona: 4–35 lb (1.8–15.8 kg) y 32\" (81 cm)"
         ],
         [
-          "Viajar con Recién Nacido (0 a 3 Meses) en Ingenuity 3Dlite Reclinable",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-usando-ingenuity-3dlite-reclinable/)"
+          "Bebé sentado (6 a 18 meses)",
+          "Control de tronco firme, buen reclinado de siesta y capota",
+          "Ingenuity 3Dlite, Kolcraft Cloud Plus, Joolz Aer+, YOYO3 (6+)",
+          "Hasta 45–50 lb según chasis"
         ],
         [
-          "Viajar con Recién Nacido (0 a 3 Meses) en Kolcraft Cloud Plus",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-usando-kolcraft-cloud-plus/)"
+          "Caminante activo (18 m a 3 años)",
+          "Subida ágil, reposapiés firme y freno rápido en paradas",
+          "Ingenuity 3Dmini, Contours Bitsy Elite, Bugaboo Butterfly",
+          "40 lb (Bitsy) / 45 lb (3Dmini) / 50 lb (Butterfly)"
         ],
         [
-          "Viajar con Recién Nacido (0 a 3 Meses) en Sistema Doona 2-en-1",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-usando-doona-silla-2-en-1/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) con Adaptador Silla de Auto CS+",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-en-ingenuity-3dquickclose-cs-con-huevito/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) en Escalas y Aeropuertos",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-durante-vuelos-y-escalas-largas/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) Cuidando Postura y Columna",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-cuidando-la-espalda-y-cadera-del-bebe/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) Ajustando Hombros del Arnés",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-ajustando-el-arnes-segun-estatura/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) Bajo Lluvia o Calor Intenso",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-con-protector-lluvia-y-ventilacion/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) Con Colchoneta Transpirable",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-eligiendo-colchoneta-transpirable/)"
-        ],
-        [
-          "Viajar con Recién Nacido (0 a 3 Meses) Para Mayor Comodidad de Piernas",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-evitando-que-cuelguen-los-pies/)"
-        ],
-        [
-          "Bebés de 3 a 6 Meses y Control del Cuello en Ingenuity 3Dlite Reclinable",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/etapa-3-a-6-meses-control-cervical-usando-ingenuity-3dlite-reclinable/)"
-        ],
-        [
-          "Bebés de 3 a 6 Meses y Control del Cuello en Kolcraft Cloud Plus",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/etapa-3-a-6-meses-control-cervical-usando-kolcraft-cloud-plus/)"
-        ],
-        [
-          "Bebés de 3 a 6 Meses y Control del Cuello en Sistema Doona 2-en-1",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/etapa-3-a-6-meses-control-cervical-usando-doona-silla-2-en-1/)"
-        ],
-        [
-          "Bebés de 3 a 6 Meses y Control del Cuello con Adaptador Silla de Auto CS+",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/etapa-3-a-6-meses-control-cervical-en-ingenuity-3dquickclose-cs-con-huevito/)"
-        ],
-        [
-          "Bebés de 3 a 6 Meses y Control del Cuello en Escalas y Aeropuertos",
-          "[Ver guía completa](/etapas-del-bebe-edad-peso-y-reclinado/etapa-3-a-6-meses-control-cervical-durante-vuelos-y-escalas-largas/)"
+          "Preescolar en viajes largos (3 a 4+ años)",
+          "Respaldo alto y chasis rígido que no frene las ruedas",
+          "Ingenuity 3Dlite, Kolcraft Cloud Plus, gb Pockit+ All-Terrain",
+          "50 lb (22.6 kg) / 55 lb (25 kg en Pockit+)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      ],
+      "caption": "Guía rápida de compatibilidad por etapa evolutiva, reclinado y límite máximo"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Niños grandes de 2 a 4 años: la importancia real de las 50 lb (22.6 kg)"
+    },
+    {
+      "type": "p",
+      "text": "Un niño de tres años que en su barrio camina de la mano termina agotado tras recorrer terminales aéreas extensas, parques temáticos o centros históricos empedrados. Si buscas un coche que acompañe toda la primera infancia, fíjate en el techo estructural: bastones básicos como el **Kolcraft Cloud Umbrella** o el **Contours Bitsy Elite** topan en **40 lb (18 kg)**, y el ultraligero **Ingenuity 3Dmini** llega a **45 lb (20.4 kg)**. Dar el salto a chasis homologados hasta **50 lb (22.6 kg)** —como el **Ingenuity 3Dlite**, el **Kolcraft Cloud Plus** o el **Ingenuity 3Dquickclose CS+**— o incluso **55 lb (25 kg)** en el **gb Pockit+ All-Terrain** garantiza que los ejes no flexen ni rocen contra los guardabarros cuando un preescolar cansado se sube con mochila incluida."
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Muchas familias calculan usar el Doona hasta que su bebé pese 35 lb (15.8 kg), pero la mayoría alcanza antes el tope de estatura de 32 pulgadas (81 cm) —o deja menos de 2.5 cm libres entre la coronilla y el borde superior de la carcasa— alrededor de los 12 a 15 meses. En cuanto ocurre cualquiera de las dos condiciones, el fabricante exige pasar a una silla convertible en el auto y a un coche compacto de paseo hacia adelante.",
+      "title": "La estatura suele agotarse antes que el peso en sillas 2-en-1"
+    },
+    {
+      "type": "h2",
+      "text": "Ajustes evolutivos que debes hacer conforme crece tu hijo"
     },
     {
       "type": "ol",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        "**Reubica la altura de los hombros:** en coches orientados hacia adelante, pasa las cintas del arnés a la ranura superior conforme gana talla para que salgan a ras o ligeramente por encima de sus hombros sin comprimir la espalda.",
+        "**Comprueba el margen de cabeza al reclinar:** antes de dormir al niño, verifica que su coronilla quede dentro del paño textil del respaldo y no sobresalga golpeando el arco metálico de la capota.",
+        "**Adapta el apoyo de piernas:** pasa del soporte horizontal de pantorrillas (útil en lactantes de 6 a 12 meses) al escalón reposapiés inferior cuando sus rodillas empiecen a doblarse en exceso.",
+        "**Evalúa el empuje real bajo carga:** cerca de las **45 o 50 lb**, mantén las ruedas limpias y bien alineadas para conservar giros fluidos con una mano en pasillos estrechos de aeropuerto."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿No tienes claro qué coche compacto corresponde a los meses, peso y estatura actuales de tu bebé? Indícaselo a nuestro Asesor IA para filtrar las opciones seguras o consulta los modelos disponibles hoy en las tarjetas de Amazon."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Etapas del Bebé en Viaje: Desde Recién Nacido?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Puede ir un recién nacido de 1 mes en el Ingenuity 3Dlite reclinado al máximo?",
+      "a": "No sin accesorio neonatal. Aunque el Ingenuity 3Dlite tiene un reclinado profundo de 4 posiciones excelente para siestas a partir de los 6 meses, no alcanza los 180 grados planos ni incorpora soporte lateral reductor para un recién nacido sin control cefálico. Para menores de 6 meses usa Doona, un coche con huevito acoplado como el 3Dquickclose CS+ o un modelo con cuna plana 0+."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Cuánto reclinado necesita un coche de viaje para que un bebé de 10 meses duerma bien en escalas?",
+      "a": "Para dormir de forma cómoda sin que la cabeza cabecee hacia adelante cuando el coche frena en una acera, conviene un ángulo de reclinado amplio (entre 135 y 150 grados en bebés mayores de 6 meses) acompañado de capota extensible que bloquee las luces blancas directas de la terminal."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Qué coche compacto ofrece mejor altura de respaldo para niños altos de 3 años?",
+      "a": "Entre los compactos con respaldo alto destacan el Bugaboo Butterfly (uno de los respaldos más largos del segmento cabina, hasta 50 lb), el Ingenuity 3Dlite (hasta 50 lb con tubos traseros despejados) y el gb Pockit+ All-Terrain (hasta 55 lb / 25 kg), ideales para niños altos de 3 a 4 años."
+    },
+    {
+      "q": "¿Qué ventaja aporta un respaldo con malla transpirable en vacaciones de verano?",
+      "a": "El tejido enrollable con malla de ventilación, como el que incorpora el Kolcraft Cloud Umbrella o las ventanas traseras de aireación en modelos de cabina como el Joolz Aer+, disipa el calor acumulado en la espalda y reduce la sudoración durante siestas en destinos tropicales."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +140,6 @@
     "/etapas-del-bebe-edad-peso-y-reclinado/viajar-con-recien-nacido-0-a-3-meses-usando-doona-silla-2-en-1/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-etapas-del-bebe-edad-peso-y-reclinado.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/etapas-del-bebe-edad-peso-y-reclinado.webp"
 }

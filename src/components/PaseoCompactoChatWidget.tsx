@@ -38,8 +38,6 @@ export interface ChatAmazonProductCard {
   badge: string;
   title: string;
   subtitle: string;
-  rating: string;
-  reviewsCount: string;
   urlUS: string;
   urlES: string;
 }
@@ -494,8 +492,8 @@ export default function PaseoCompactoChatWidget() {
                               <span className="rounded-full bg-slate-900 px-2 py-0.5 text-[10px] font-extrabold text-amber-300">
                                 {prod.badge}
                               </span>
-                              <span className="text-[11px] font-bold text-amber-700">
-                                ★ {prod.rating} ({prod.reviewsCount})
+                              <span className="text-[10px] font-semibold text-slate-500">
+                                {storeName}
                               </span>
                             </div>
                             <p className="mt-1 font-display text-xs font-extrabold text-slate-900 leading-snug">
@@ -519,7 +517,7 @@ export default function PaseoCompactoChatWidget() {
                               }
                               className="mt-2 flex w-full items-center justify-center gap-1.5 rounded-xl bg-[#ea580c] px-3 py-2 text-xs font-extrabold text-white hover:bg-[#c2410c] transition"
                             >
-                              <span>✈️ Ver precio hoy en {storeName}</span>
+                              <span>✈️ Consultar en {storeName}</span>
                               <span>↗</span>
                             </a>
                           </div>

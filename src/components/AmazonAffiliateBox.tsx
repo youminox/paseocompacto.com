@@ -98,7 +98,6 @@ export default function AmazonAffiliateBox({
   const storeName =
     region === "US" ? "Amazon.com (EE. UU.)" : "Amazon.es (España)";
   const shortStore = region === "US" ? "Amazon.com" : "Amazon.es";
-  const activeTag = region === "US" ? AMAZON_TAG_US : AMAZON_TAG_ES;
 
   const onAmazonClick = (prod: AmazonProductRecommendation, pos: string) => {
     const url = buildAmazonUrl(prod, region);
@@ -152,8 +151,7 @@ export default function AmazonAffiliateBox({
               {primaryProduct.badge}
             </span>
             <span className="inline-flex items-center gap-1 rounded-full bg-teal-100 px-2.5 py-0.5 text-xs font-bold text-teal-950">
-              ★★★★★ {primaryProduct.rating}/5 ({primaryProduct.reviewsCount}{" "}
-              opiniones)
+              Enlace patrocinado · {shortStore}
             </span>
           </div>
           <RegionSwitch />
@@ -237,7 +235,8 @@ export default function AmazonAffiliateBox({
               <span aria-hidden>→</span>
             </a>
             <p className="text-[11px] text-center text-white/70 leading-snug">
-              Comprueba colores, stock y envío en {shortStore} (ID: {activeTag})
+              Consulta colores, disponibilidad y condiciones de envío en{" "}
+              {shortStore}
             </p>
           </div>
         </div>
@@ -279,8 +278,8 @@ export default function AmazonAffiliateBox({
                     <span className="rounded-full bg-teal-100 px-2.5 py-0.5 text-[11px] font-extrabold text-teal-950">
                       {idx === 0 ? "Opción #1 Destacada" : "Alternativa Directa"}
                     </span>
-                    <span className="text-xs font-bold text-amber-700">
-                      ★ {item.rating}/5 ({item.reviewsCount})
+                    <span className="text-[11px] font-semibold text-slate-500">
+                      Ficha en {shortStore}
                     </span>
                   </div>
                   <h4 className="mt-2.5 font-display text-lg font-extrabold leading-snug">
@@ -314,7 +313,7 @@ export default function AmazonAffiliateBox({
                   onClick={() => onAmazonClick(item, `vs-${idx + 1}`)}
                   className="mt-4 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-[#ea580c] to-[#c2410c] px-4 py-3 font-display text-xs sm:text-sm font-extrabold text-white shadow hover:brightness-110 transition"
                 >
-                  <span>Consultar precio hoy en {shortStore}</span>
+                  <span>Ver disponibilidad en {shortStore}</span>
                   <span aria-hidden>→</span>
                 </a>
               </div>
@@ -370,7 +369,7 @@ export default function AmazonAffiliateBox({
               <span aria-hidden>→</span>
             </a>
             <p className="mt-1 text-center text-[11px] text-slate-500">
-              ★ {primaryProduct.rating}/5 ({primaryProduct.reviewsCount})
+              Enlace de afiliado · {shortStore}
             </p>
           </div>
         </div>
@@ -384,7 +383,7 @@ export default function AmazonAffiliateBox({
       <div className="rounded-2xl border border-[var(--line)] bg-white p-4 shadow-sm">
         <div className="flex items-center justify-between gap-1 pb-2.5 border-b border-[var(--line)]">
           <span className="text-xs font-extrabold uppercase tracking-wider text-[#c2410c]">
-            🛒 Top Amazon EE. UU.
+            🛒 Selección Amazon EE. UU.
           </span>
           <div className="inline-flex gap-1 text-[10px] font-bold">
             <button
@@ -437,7 +436,7 @@ export default function AmazonAffiliateBox({
                   onClick={() => onAmazonClick(item, `sidebar-${i + 1}`)}
                   className="mt-2 inline-flex w-full items-center justify-center rounded-lg bg-[#0f172a] px-3 py-2 text-[11px] font-extrabold text-amber-300 hover:bg-slate-800 transition"
                 >
-                  Ver precio en {shortStore} →
+                  Consultar en {shortStore} →
                 </a>
               </div>
             );
@@ -456,7 +455,7 @@ export default function AmazonAffiliateBox({
       <div className="flex flex-wrap items-start justify-between gap-4 pb-6 border-b border-white/10">
         <div className="max-w-2xl">
           <span className="inline-block rounded-full bg-teal-400/15 border border-teal-400/30 px-3 py-1 text-xs font-extrabold text-teal-300">
-            ✈️ Selección Verificada en {storeName}
+            ✈️ Selección Compatible en {storeName}
           </span>
           <h2 className="mt-2.5 font-display text-2xl sm:text-3xl font-extrabold text-white">
             {sectionTitle}
@@ -484,8 +483,8 @@ export default function AmazonAffiliateBox({
                   <span className="rounded-full bg-slate-900 px-2.5 py-0.5 text-[10px] font-extrabold text-amber-300">
                     {roleLabels[idx] || prod.badge}
                   </span>
-                  <span className="text-xs font-extrabold text-amber-700">
-                    ★ {prod.rating} ({prod.reviewsCount})
+                  <span className="text-[11px] font-semibold text-slate-500">
+                    {shortStore}
                   </span>
                 </div>
                 <h3 className="mt-3 font-display text-lg font-extrabold leading-snug text-slate-900">
@@ -529,7 +528,7 @@ export default function AmazonAffiliateBox({
                 onClick={() => onAmazonClick(prod, `showcase-${idx + 1}`)}
                 className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-[#f59e0b] to-[#ea580c] px-4 py-3 font-display text-xs sm:text-sm font-extrabold text-white shadow hover:brightness-105 transition"
               >
-                <span>Ver precio y stock en {shortStore}</span>
+                <span>Consultar disponibilidad en {shortStore}</span>
                 <span aria-hidden>→</span>
               </a>
             </div>
@@ -541,7 +540,8 @@ export default function AmazonAffiliateBox({
         En calidad de Afiliado de Amazon ({AMAZON_TAG_US} en Amazon.com y{" "}
         {AMAZON_TAG_ES} en Amazon.es), PaseoCompacto.com obtiene ingresos por
         las compras adscritas que cumplen los requisitos aplicables sin ningún
-        costo adicional para ti.
+        costo adicional para ti. Los precios y la disponibilidad son los que
+        figuran en tiempo real en Amazon en el momento de la compra.
       </p>
     </section>
   );

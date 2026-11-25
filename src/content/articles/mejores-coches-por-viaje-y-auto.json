@@ -4,152 +4,138 @@
   "path": "/mejores-coches-por-viaje-y-auto/",
   "isPillar": true,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "mejores coches de bebe compactos para viajar y maletera pequena",
   "title": "Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU.",
   "seoTitle": "Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU. | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre rankings de compra en Amazon EE. UU. según el tamaño de tu maletera (sedán, hatchback, SUV), edad del bebé, presupuesto en dólares y tipo de escapada. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 90 guías sobre rankings de compra en Amazon EE. UU. según el tamaño de tu maletera (sedán, hatchback, SUV), edad del bebé, presupuesto en dólares y tipo de escapada con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 90 guías sobre rankings de compra en Amazon EE. UU. según el tamaño de tu maletera (sedán, hatchback, SUV), edad del bebé, presupuesto en dólares y tipo de escapada. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Guía experta para elegir coches de bebé compactos en Amazon EE. UU. según el tamaño de tu maletera (sedán o hatchback), edad del niño y tipo de viaje.",
+  "excerpt": "Compara plegado paraguas, libro cuadrado, tríptico de cabina y sistema Doona 2-en-1 para acertar en Amazon EE. UU. según la cajuela de tu auto, la etapa de tu hijo y tu ruta.",
+  "quickAnswer": "Para acertar con un coche compacto en Amazon EE. UU., cruza la geometría de tu cajuela con la etapa de tu bebé: elige plegado paraguas (43\" de largo como el Ingenuity 3Dlite) para sedanes profundos, formato libro o vertical (3Dquickclose CS+ o Kolcraft Cloud Plus) para hatchbacks cortos, trípticos IATA (YOYO3, Joolz Aer+) para cabina de avión y Doona 2-en-1 para viajar desde recién nacido ocupando cero espacio en maletera.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Overhead flat-lay travel composition beside passport pouch and folded baby gear (35mm lens): top-rated lightweight travel strollers displayed beside open car trunk luggage sets and boarding passes in crisp daylight, next to a measuring tape highlighting ultra-compact folded footprint, warm golden-hour afternoon sunlight during family travel. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Diagonal dynamic walkway framing with crisp motion-frozen wheels on 50mm lens: top-rated lightweight travel strollers displayed beside open car trunk luggage sets and boarding passes in crisp daylight, positioned to clearly demonstrate generous free car trunk cargo space alongside family suitcases in anthracite black seat with ivory piping and silver swivel wheels, on a shaded brick patio beside a wooden bench and diaper bag, crisp morning sunlight casting gentle directional shadows. Topic focus: mejores coches por viaje y auto. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU."
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU.** en **PaseoCompacto.com**. Aquí reunimos nuestras **90 guías verificadas** sobre **rankings de compra en Amazon EE. UU. según el tamaño de tu maletera (sedán, hatchback, SUV), edad del bebé, presupuesto en dólares y tipo de escapada**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Comprar un coche de viaje guiándose únicamente por el peso en la ficha técnica suele terminar en un rompecabezas frustrante frente al auto de alquiler o el mostrador del aeropuerto. Un chasis de apenas **11 lb (4.9 kg)** puede medir más de un metro cerrado y trabarse en la boca angosta de un hatchback subcompacto, mientras que otro de **16.5 lb (7.5 kg)** ni siquiera toca el maletero porque viaja asegurado en el asiento trasero. En este centro de guías analizamos los [mejores coches compactos para viajar en Amazon EE. UU.](/mejores-coches-por-viaje-y-auto/mejores-coches-compactos-de-bebe-para-viajar-amazon-usa/) cruzando las tres variables que realmente mandan en ruta: la forma exacta del plegado frente a tu cajuela, la etapa física de tu hijo y la relación durabilidad-equipamiento de cada gama."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU."
+      "text": "Geometría de maletera: qué plegado encaja en sedán, hatchback o taxi sin sacrificar maletas"
     },
     {
       "type": "p",
-      "text": "En cada una de las **90 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "Antes de mirar colores o accesorios, mide el fondo y el ancho útil entre los pasos de rueda de tu vehículo habitual. Los sedanes medianos tienen pisos profundos pero bocas de carga bajas: ahí brillan los plegados 3D tipo paraguas como el **Ingenuity 3Dlite Convenience** (**43\" × 10\" × 12\"** / **109 × 25 × 30 cm**, **13 lb / 5.9 kg**), que entra acostado al fondo o en diagonal dejando más del **75 % de la maletera libre**. En cambio, los hatchbacks urbanos con cajuela corta exigen formatos cortos o verticales: el **Ingenuity 3Dquickclose CS+** (**22\" × 20.5\" × 12.5\"** / **56 × 52 × 32 cm**, **17.5 lb / 7.9 kg**) se guarda de pie junto a las compras, y el **Kolcraft Cloud Plus** (**18\" × 12\" × 34\"** / **46 × 30 × 86 cm**, **11.8 lb / 5.3 kg**) permite acomodar a su lado dos maletas grandes de **23 kg**. Puedes revisar mediciones específicas por carrocería en nuestra selección de [coches compactos para maleteras pequeñas de sedán y hatchback](/mejores-coches-por-viaje-y-auto/mejores-coches-compactos-para-maleteras-pequenas-sedan-hatchback/)."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU.",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Escenario de auto y viaje",
+        "Modelo referente",
+        "Medidas cerrado y peso",
+        "Ventaja real de espacio y uso"
       ],
       "rows": [
         [
-          "Los 9 Mejores Coches de Bebé Compactos para Viajar en Amazon EE. UU. (Peso, Plegado y Maletera)",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-compactos-de-bebe-para-viajar-amazon-usa/)"
+          "Sedán mediano + entrega en puerta (Gate Check)",
+          "Ingenuity 3Dlite Convenience",
+          "109 × 25 × 30 cm | 13 lb (5.9 kg)",
+          "Deja +75 % de cajuela libre y soporta hasta 50 lb (22.6 kg)"
         ],
         [
-          "Los 7 Mejores Coches Compactos para Maleteras Pequeñas (Sedán, Hatchback y Taxi/Uber)",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-compactos-para-maleteras-pequenas-sedan-hatchback/)"
+          "Hatchback corto de uso diario y enlaces urbanos",
+          "Ingenuity 3Dquickclose CS+",
+          "56 × 52 × 32 cm | 17.5 lb (7.9 kg)",
+          "Cierre libro con 1 mano desde el asiento y acepta silla de auto"
         ],
         [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) por Menos de US$60 en Amazon EE. UU.",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-por-menos-de-60-dolares-amazon/)"
+          "Auto alquilado con 2 maletas grandes de 23 kg",
+          "Kolcraft Cloud Plus Easy-Fold",
+          "46 × 30 × 86 cm | 11.8 lb (5.3 kg)",
+          "Se mantiene de pie solo e incluye doble bandeja para padres y niño"
         ],
         [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) Calidad-Precio por Menos de US$100",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-por-menos-de-100-dolares-calidad-precio/)"
+          "Taxis, Uber y avión con recién nacido",
+          "Doona Car Seat & Stroller (FAA)",
+          "60 × 44 × 66 cm | 16.5 lb (7.5 kg)",
+          "Ocupa 0 litros en maletera al instalarse directo en el asiento (4–35 lb)"
         ],
         [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) de Gama Media (US$100 a US$180)",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-entre-100-y-180-dolares-gama-media/)"
-        ],
-        [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) de Gama Alta y 2-en-1 FAA",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-gama-alta-premium-avion-y-doona/)"
-        ],
-        [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) con Bolso de Transporte Compatible",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-con-bolso-de-transporte-incluido-o-compatible/)"
-        ],
-        [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) con Protector de Lluvia y Capota UV50+",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-con-protector-de-lluvia-y-capota-uv/)"
-        ],
-        [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) con Organizador de Manillar y Portavasos",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-con-organizador-y-bandeja-para-padres/)"
-        ],
-        [
-          "Mejores Coches Compactos para Viajar en Avión (Cabina IATA y Gate Check) Comparando Ingenuity, Kolcraft y Doona",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-comparando-ingenuity-kolcraft-y-doona/)"
-        ],
-        [
-          "Mejores Coches Compactos que se Cierran Realmente con Una Sola Mano por Menos de US$60 en Amazon EE. UU.",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-con-plegado-real-de-una-sola-mano-por-menos-de-60-dolares-amazon/)"
-        ],
-        [
-          "Mejores Coches Compactos que se Cierran Realmente con Una Sola Mano Calidad-Precio por Menos de US$100",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-con-plegado-real-de-una-sola-mano-por-menos-de-100-dolares-calidad-precio/)"
-        ],
-        [
-          "Mejores Coches Compactos que se Cierran Realmente con Una Sola Mano de Gama Media (US$100 a US$180)",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-con-plegado-real-de-una-sola-mano-entre-100-y-180-dolares-gama-media/)"
-        ],
-        [
-          "Mejores Coches Compactos que se Cierran Realmente con Una Sola Mano de Gama Alta y 2-en-1 FAA",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-con-plegado-real-de-una-sola-mano-gama-alta-premium-avion-y-doona/)"
-        ],
-        [
-          "Mejores Coches Compactos que se Cierran Realmente con Una Sola Mano con Bolso de Transporte Compatible",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-con-plegado-real-de-una-sola-mano-con-bolso-de-transporte-incluido-o-compatible/)"
-        ],
-        [
-          "Mejores Coches Compactos que se Cierran Realmente con Una Sola Mano con Protector de Lluvia y Capota UV50+",
-          "[Ver guía completa](/mejores-coches-por-viaje-y-auto/mejores-coches-con-plegado-real-de-una-sola-mano-con-protector-de-lluvia-y-capota-uv/)"
+          "Vuelo con escalas sin esperar en manga (Cabina)",
+          "gb Pockit+ All-Terrain / Joolz Aer+",
+          "34 × 20 × 42 cm / 53.5 × 45 × 21.5 cm",
+          "Entran en compartimento superior IATA (~55 × 35–40 × 20–23 cm)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      ],
+      "caption": "Comparativa rápida por tipo de vehículo, formato plegado y etapa recomendada"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Cómo evaluar los tramos de presupuesto en Amazon EE. UU. sin pagar de más"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "Al ordenar las opciones del catálogo estadounidense por tramos de inversión, lo que cambia no es solo el acabado textil, sino la ingeniería de las bisagras y el techo de peso soportado. En el escalón de entrada destacan bastones ultraligeros como el **Kolcraft Cloud Umbrella** (**9.5–11 lb / 4.3–4.9 kg**, hasta **40 lb / 18 kg**) y el **Ingenuity 3Dmini Convenience** (**11 lb / 4.9 kg**, hasta **45 lb / 20.4 kg**), pensados para traslados pavimentados o como segundo coche en casa de los abuelos. En el segmento intermedio aparecen cierres verdaderos a una sola mano y mayor amortiguación, como el **Contours Bitsy Elite** (**12–13.6 lb / 5.4–6.1 kg**, plegado tríptico de **51–53 × 41–42 × 23 cm**), mientras que el tope de línea reúne los [modelos de gama alta para cabina de avión y el sistema Doona](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-gama-alta-premium-avion-y-doona/), junto al **Bugaboo Butterfly** (**16.1 lb / 7.3 kg**) o el **Stokke YOYO3** (**13.6 lb / 6.2 kg**). Como las tarifas y promociones en Amazon.com cambian a diario según el color del tapizado y el inventario disponible, conviene comparar primero vida útil en libras y facilidad de cierre antes de revisar las tarjetas actualizadas de cada producto."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Un chasis tríptico de 13.2 lb como el Joolz Aer+ (53.5 × 45 × 21.5 cm) resuelve situaciones donde un bastón de 11 lb y 109 cm de largo queda bloqueado: entra detrás del asiento del copiloto en autos compactos, cabe bajo mesas de cafetería y sube al maletero superior del avión. Si haces más de dos vuelos al año, prioriza el largo plegado antes que ahorrar una libra en báscula.",
+      "title": "Prioriza los centímetros de largo sobre las libras aisladas"
+    },
+    {
+      "type": "h2",
+      "text": "Elección según la edad del niño y el ritmo de la escapada familiar"
+    },
+    {
+      "type": "ul",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        "**Recién nacidos y lactantes (desde 4 lb / 1.8 kg):** Necesitan soporte cervical total o compatibilidad con portabebés. El **Doona** cubre de **4 a 35 lb (1.8–15.8 kg)** y hasta **32\" (81 cm)** desplegando ruedas en un segundo para pasar del avión al Uber sin despertar al bebé; si ya tienes huevito compatible, el **Ingenuity 3Dquickclose CS+** actúa como Travel System compacto.",
+        "**Bebés de 6 a 18 meses con siestas en ruta:** Busca reclinado multiposición profundo y ventilación. El **Ingenuity 3Dlite** ofrece **4 posiciones de reclinado** para dormir durante caminatas largas en parques temáticos, mientras que el **Kolcraft Cloud Umbrella** incorpora respaldo enrollable con malla fresca para climas cálidos.",
+        "**Niños mayores que caminan por tramos (hasta 50–55 lb):** Evita topes de **40 lb (18 kg)** que quedarán cortos pronto. Chasis como el **3Dlite**, el **Kolcraft Cloud Plus** (**50 lb / 22.6 kg**) o el **gb Pockit+ All-Terrain** (hasta **55 lb**) mantienen un rodaje ágil cuando un niño de 3 o 4 años pide subir al final de la tarde.",
+        "**Rutas aéreas con conexiones ajustadas:** Si prefieres proteger el coche en puerta o llevarlo al hombro en escaleras mecánicas, prioriza los [coches de viaje con bolso de transporte incluido o compatible](/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-con-bolso-de-transporte-incluido-o-compatible/)."
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué verificar antes de confirmar tu pedido desde Estados Unidos"
+    },
+    {
+      "type": "p",
+      "text": "Revisa siempre tres detalles ergonómicos que suelen pasarse por alto en fotos de estudio: la altura y forma del empuje (el doble manillar curvo de los modelos **Ingenuity 3Dlite** y **3Dmini** favorece a padres altos en zancada larga, mientras que la barra corrida del **Kolcraft Cloud Plus** permite guiar el coche con una mano mientras sostienes una maleta con la otra), el acceso real a la canasta inferior cuando el asiento va reclinado y si el paquete incluye portavasos o correa de transporte. Definir esta combinación evita compras duplicadas y asegura que el coche acompañe a la familia durante varias temporadas de viaje."
+    },
+    {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Dudas entre dos medidas para la cajuela de tu auto o tu próximo vuelo? Consulta a nuestro Asesor IA indicando el modelo de tu vehículo y la edad de tu bebé, o revisa los colores y la disponibilidad vigente directamente en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Mejores Coches Compactos por Tipo de Viaje, Presupuesto y Maletera en Amazon EE. UU.?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Qué diferencia práctica hay en la maletera entre un plegado paraguas de 43 pulgadas y uno tipo libro?",
+      "a": "Un plegado paraguas de 43 pulgadas (109 cm), como el del Ingenuity 3Dlite, forma un cilindro largo y estrecho ideal para el fondo profundo de un sedán, pero suele chocar a lo ancho en hatchbacks pequeños. El plegado libro cuadrado, como el del Ingenuity 3Dquickclose CS+ (56 × 52 × 32 cm), concentra el volumen en un bloque corto que entra parado incluso en cajuelas urbanas reducidas."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Conviene un coche ultraligero de entrada para un niño que ya supera las 35 libras?",
+      "a": "Si el niño ya ronda las 35 libras (15.8 kg), un bastón básico limitado a 40 lb (18 kg) empezará a sentirse pesado de girar en esquinas y tendrá poco margen de uso. En esa etapa conviene saltar a estructuras certificadas hasta 50 lb (22.6 kg), como el Kolcraft Cloud Plus o el Ingenuity 3Dlite, o hasta 55 lb como el gb Pockit+ All-Terrain."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Qué modelo deja el 100 % de la cajuela libre cuando viajamos en sedán pequeño o Uber?",
+      "a": "El Doona Car Seat & Stroller deja el 100 % del maletero libre (0 litros ocupados en cajuela) porque retrae sus ruedas integradas en un segundo y viaja sujeto con cinturón o base directamente sobre el asiento del pasajero, cumpliendo la norma FMVSS 213 y la certificación aérea FAA."
+    },
+    {
+      "q": "¿Por qué cambian la disponibilidad y las condiciones de envío según el color en Amazon EE. UU.?",
+      "a": "En Amazon.com cada variante de color o edición de tapizado maneja lotes de inventario propios. Por eso la disponibilidad de envío internacional, los tiempos de entrega y las ofertas activas varían constantemente entre un tono gris neutro y una edición especial aunque compartan exactamente el mismo chasis."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +146,6 @@
     "/mejores-coches-por-viaje-y-auto/mejores-coches-para-viajar-en-avion-y-cabina-por-menos-de-100-dolares-calidad-precio/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-mejores-coches-por-viaje-y-auto.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/mejores-coches-por-viaje-y-auto.webp"
 }

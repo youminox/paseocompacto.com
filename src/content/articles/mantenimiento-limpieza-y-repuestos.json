@@ -4,152 +4,144 @@
   "path": "/mantenimiento-limpieza-y-repuestos/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "mantenimiento y limpieza de ruedas y tela coche compacto",
   "title": "Mantenimiento Tras Viajar: Limpieza de Ruedas, Telas, Bisagras y Lubricación Seca",
   "seoTitle": "Mantenimiento Tras Viajar: Limpieza de Ruedas, Telas, Bisagras y Lubricación Seca | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre cuidados tras visitar playas o lluvias, cómo destrabar ruedas con arena usando silicona seca sin atraer tierra, lavado de tapizados y revisión de trabas de plegado. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 110 guías sobre cuidados tras visitar playas o lluvias, cómo destrabar ruedas con arena usando silicona seca sin atraer tierra, lavado de tapizados y revisión de trabas de plegado con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 110 guías sobre cuidados tras visitar playas o lluvias, cómo destrabar ruedas con arena usando silicona seca sin atraer tierra, lavado de tapizados y revisión de trabas de plegado. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Guía de mantenimiento y limpieza de ruedas y tela en coches compactos: quita arena, aplica silicona seca sin pegar polvo y cuida las bisagras tras viajar.",
+  "excerpt": "Aprende a recuperar el giro suave de las ruedas tras la playa o la lluvia sin usar aceites grasos que forman barro abrasivo, lavar tapizados sin encogerlos y revisar remaches antes del próximo vuelo.",
+  "quickAnswer": "Para mantener suave un coche compacto tras viajar a la playa o bajo lluvia, enjuaga ruedas y frenos con agua dulce tibia, seca por completo el chasis abierto a la sombra y aplica únicamente lubricante de silicona seca en los ejes (nunca aceites grasos que pegan arena). Lava las telas con jabón neutro sin desmontar estructuras cosidas ni sumergir las correas del arnés de 5 puntos.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Eye-level candid family travel action shot with authentic natural framing: clean home maintenance scene with a soft brush, microfiber towel and silicone spray beside compact stroller swivel wheels, on a clean travertine hotel lobby floor near check-in luggage, clean sunlit modern garage illumination showing trunk dimensions clearly. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Compact apartment entryway storage nook perspective on 28mm lens: clean home maintenance scene with a soft brush, microfiber towel and silicone spray beside compact stroller swivel wheels, showing clean swivel wheel assemblies, locking levers and well-maintained washable fabric in midnight blue melange seat with light gray ventilated mesh panels, in a sunlit Scandinavian-style living room hardwood hallway ready for departure, clear high-visibility sunny travel day lighting. Topic focus: mantenimiento limpieza y repuestos. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Mantenimiento Tras Viajar: Limpieza de Ruedas, Telas, Bisagras y Lubricación Seca"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Mantenimiento Tras Viajar: Limpieza de Ruedas, Telas, Bisagras y Lubricación Seca** en **PaseoCompacto.com**. Aquí reunimos nuestras **110 guías verificadas** sobre **cuidados tras visitar playas o lluvias, cómo destrabar ruedas con arena usando silicona seca sin atraer tierra, lavado de tapizados y revisión de trabas de plegado**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Volver de unas vacaciones en la costa, días de lluvia intensa o traslados por bodegas de avión deja una huella silenciosa en cualquier coche ligero: granos finos de sílice se meten en las horquillas delanteras produciendo chirridos o trabas al girar, el bloqueador solar mancha el poliéster y el salitre oxida los resortes internos del plegado. Dedicar veinte minutos al regresar a casa devuelve el deslizamiento original a un chasis de **11.8 lb (5.3 kg)** o **13 lb (5.9 kg)** y alarga años su vida útil."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Mantenimiento Tras Viajar"
+      "text": "Silicona seca frente a aceites grasos: el secreto de unas ruedas suaves"
     },
     {
       "type": "p",
-      "text": "En cada una de las **110 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "El error doméstico más dañino cuando una rueda chirría consiste en rociar aceites multiusos derivados del petróleo, grasa de litio o lubricantes de cocina. Esos compuestos dejan una película húmeda y pegajosa dentro de los bujes de nailon: apenas sales a la vereda, el polvo y la arena se adhieren formando una pasta esmeril que desgasta el eje plástico y endurece la dirección. La solución técnica correcta es aplicar **lubricante de silicona seca (100 % silicona o PTFE seco)** tras lavar y secar las piezas, ya que su solvente evapora en segundos dejando una capa deslizante seca que repele la tierra y cuida polímeros y aluminio. Revisa nuestras guías específicas sobre [cómo limpiar y lubricar las ruedas después de ir a la playa](/mantenimiento-limpieza-y-repuestos/como-limpiar-y-lubricar-ruedas-coche-compacto-despues-playa/), la comparativa de [silicona seca frente a aceite en ruedas de Ingenuity 3Dlite y 3Dmini](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-ingenuity-3dlite-y-3dmini/) y el delicado [cuidado del mecanismo retráctil del Doona](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-doona-car-seat-stroller/)."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Mantenimiento Tras Viajar: Limpieza de Ruedas, Telas, Bisagras y Lubricación Seca",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Zona o pieza",
+        "Producto adecuado",
+        "Qué prohibir siempre",
+        "Momento ideal de aplicación"
       ],
       "rows": [
         [
-          "Cómo Limpiar y Lubricar Ruedas Trancadas por Arena o Lluvia en Coches Compactos (Sin Atraer Polvo)",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/como-limpiar-y-lubricar-ruedas-coche-compacto-despues-playa/)"
+          "Ejes y horquillas giratorias delanteras",
+          "Agua dulce tibia + spray de silicona seca",
+          "Aceites penetrantes grasos, grasa o hidrolavadora",
+          "Tras playa, caminos de tierra o lluvia intensa"
         ],
         [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias para Ingenuity 3Dlite y 3Dmini",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-ingenuity-3dlite-y-3dmini/)"
+          "Tapizado del asiento y capota solar",
+          "Agua tibia, jabón neutro suave y cepillo blando",
+          "Cloro, lejía, solventes o secadora caliente",
+          "Al regresar de viaje o ante manchas de comida/crema"
         ],
         [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias para Kolcraft Cloud Plus",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-kolcraft-cloud-plus/)"
+          "Cintas y hebilla del arnés de 5 puntos",
+          "Paño húmedo con jabón neutro (enjuagar hebilla sin sumergir cintas)",
+          "Lavadora, remojo prolongado o químicos fuertes",
+          "Cuando cueste abrochar por restos de galleta o arena"
         ],
         [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias para Doona 2-en-1",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-doona-car-seat-stroller/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias Cuidando el Chasis de Aluminio",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-sin-danar-aluminio-del-chasis/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias Después de Viajar con Lluvia",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-despues-de-vacaciones-bajo-lluvia/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias Antes de Guardarlo en Depósito",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-antes-de-guardarlo-por-meses/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias Con Limpiadores Seguros para Bebés",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-usando-productos-seguros-para-bebe/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias en Casa en Menos de 15 Minutos",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-menos-de-15-minutos/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias Manteniendo Su Valor de Reventa",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-prolongando-vida-util-de-reventa/)"
-        ],
-        [
-          "Silicona Seca vs Aceite Común en Ruedas Giratorias Previniendo Óxido en Resortes y Frenos",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-evitando-oxidacion-en-resortes/)"
-        ],
-        [
-          "Cómo Limpiar Tapizados Fijos de Ingenuity y Kolcraft para Ingenuity 3Dlite y 3Dmini",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/como-lavar-funda-tela-no-desmontable-en-ingenuity-3dlite-y-3dmini/)"
-        ],
-        [
-          "Cómo Limpiar Tapizados Fijos de Ingenuity y Kolcraft para Kolcraft Cloud Plus",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/como-lavar-funda-tela-no-desmontable-en-kolcraft-cloud-plus/)"
-        ],
-        [
-          "Cómo Limpiar Tapizados Fijos de Ingenuity y Kolcraft para Doona 2-en-1",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/como-lavar-funda-tela-no-desmontable-en-doona-car-seat-stroller/)"
-        ],
-        [
-          "Cómo Limpiar Tapizados Fijos de Ingenuity y Kolcraft Cuidando el Chasis de Aluminio",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/como-lavar-funda-tela-no-desmontable-sin-danar-aluminio-del-chasis/)"
-        ],
-        [
-          "Cómo Limpiar Tapizados Fijos de Ingenuity y Kolcraft Después de Viajar con Lluvia",
-          "[Ver guía completa](/mantenimiento-limpieza-y-repuestos/como-lavar-funda-tela-no-desmontable-despues-de-vacaciones-bajo-lluvia/)"
+          "Chasis de aluminio y burbuja lluvia EVA",
+          "Microfibra húmeda y secado abierto a la sombra",
+          "Estropajos metálicos o guardar plegado con humedad",
+          "Después de cada jornada lluviosa o vuelo en bodega"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      ],
+      "caption": "Matriz de limpieza y lubricación segura por componente del coche compacto"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Cómo lavar tapizados, correas de seguridad y protectores de lluvia EVA"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "Antes de desmontar tornillos, identifica cómo va fijado el asiento. En coches ligeros de tela cosida o remachada con láminas rígidas internas —como el **Ingenuity 3Dlite** o el **Kolcraft Cloud Plus**—, la limpieza se realiza en el propio chasis frotando con espuma de jabón neutro para bebé, enjuagando con paño limpio húmedo y secando abierto en lugar ventilado sin sol directo que destiña la capota. En modelos de textil desmontable —como **Doona**, **Babyzen YOYO2 / Stokke YOYO3** o **Bugaboo Butterfly**—, puedes lavar las fundas en bolsa de red con agua fría y ciclo delicado, jamás en secadora para que no encojan los bordes elásticos. Por seguridad estructural, **nunca metas a la lavadora ni uses blanqueador en las correas del arnés de 5 puntos**, pues los detergentes agresivos debilitan el trenzado que retiene al niño: límpialas solo en superficie. Tampoco olvides extender tu protector de lluvia **EVA libre de PVC** hasta secar cada gota, siguiendo el protocolo de [mantenimiento completo después de vacaciones bajo lluvia](/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-despues-de-vacaciones-bajo-lluvia/)."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Dejar el coche húmedo encerrado dentro de un bolso impermeable de Gate Check (ya sea funda alargada de 43 pulgadas o mochila acolchada) crea un efecto invernadero que en 72 horas genera manchas negras irreversibles de moho en el respaldo y puntos de corrosión blanca sobre remaches y resortes de freno. Al llegar a casa, sácalo siempre de la funda y déjalo desplegado 24 horas antes de guardarlo en el clóset.",
+      "title": "Nunca almacenes el coche plegado dentro de su funda de viaje si sigue húmedo"
+    },
+    {
+      "type": "h2",
+      "text": "Secuencia de limpieza profunda tras vacaciones en playa o lluvia"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        {
+          "name": "1. Sacudida en seco y extracción de cabellos",
+          "text": "Voltea el coche antes de mojarlo, aspira las migas de las costuras del asiento y retira con pinza los cabellos o hilos enrollados entre la llanta y la horquilla que frenan el giro."
+        },
+        {
+          "name": "2. Enjuague de baja presión con agua dulce",
+          "text": "Aplica agua tibia sin presión excesiva sobre llantas EVA, vástagos verticales de giro y pedales de freno traseros accionándolos varias veces hasta arrastrar toda la sal y arena fina."
+        },
+        {
+          "name": "3. Secado minucioso de tubos y articulaciones",
+          "text": "Pasa un paño absorbente por los tubos de aluminio, remaches de tijera y seguro automático lateral, dejando la unidad abierta en sombra ventilada hasta que las telas estén secas al tacto."
+        },
+        {
+          "name": "4. Aplicación puntual de silicona seca",
+          "text": "Con el tren rodante completamente seco, aplica un disparo breve de lubricante de silicona seca en el eje de giro superior de las ruedas delanteras y hazlas rodar un minuto para asentar la capa."
+        }
       ]
     },
     {
+      "type": "h2",
+      "text": "Revisión de remaches, seguros y solicitud de repuestos tras volar"
+    },
+    {
+      "type": "p",
+      "text": "Después de entregar un coche en **Gate Check**, inspecciona las crucetas inferiores en busca de tubos arqueados, comprueba que el seguro lateral enganche al primer intento y verifica que los broches de la canasta inferior y los portavasos sigan firmes. Si una rueda, bandeja o funda sufrió daños durante el viaje, localiza la etiqueta plateada o blanca pegada en las patas traseras del chasis: allí figuran el **número exacto de modelo y la fecha de fabricación**, datos indispensables que marcas como **Kolcraft**, **Ingenuity**, **Doona**, **Bugaboo** o **UPPAbaby** solicitan para enviarte repuestos compatibles sin margen de error."
+    },
+    {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Necesitas saber cómo destrabar un modelo puntual o buscas fundas protectoras de viaje y lluvia? Pregúntale a nuestro Asesor IA o revisa accesorios y coches compatibles en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Mantenimiento Tras Viajar: Limpieza de Ruedas, Telas, Bisagras y Lubricación Seca?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Cómo arreglo las ruedas si ya les puse aceite multiusos por error y se llenaron de tierra?",
+      "a": "Limpia primero toda la grasa vieja frotando las uniones accesibles del eje con agua tibia, unas gotas de lavavajillas desengrasante y un cepillo dental viejo. Enjuaga con agua limpia, deja secar por completo durante varias horas y recién entonces aplica lubricante de silicona seca para sellar el giro sin pegajosidad."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Por qué las ruedas delanteras giratorias vibran o quedan fijas de lado en pisos lisos?",
+      "a": "En la mayoría de coches compactos ligeros, el bloqueo al girar 360 grados se debe a cabellos largos enrollados a presión en el eje interno o a granos de arena alojados en el vástago vertical superior de la horquilla. Usa una pinza fina o descosedor con cuidado para cortar y sacar las hebras enrolladas, enjuaga boca abajo con agua tibia y aplica silicona seca."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Cómo quitar manchas blancas de bloqueador solar en telas oscuras de poliéster?",
+      "a": "Humedece la zona con agua tibia, aplica una gota de jabón líquido neutro o lavavajillas suave (que corta los aceites minerales del protector solar) y frota en círculos suaves con un cepillo de cerdas blandas. Retira la espuma con un paño húmedo limpio sin empapar el relleno interior y seca a la sombra."
+    },
+    {
+      "q": "¿Con qué producto se desinfectan los manillares de espuma EVA sin que se agrieten?",
+      "a": "Límpialos únicamente pasando un paño suave humedecido con agua y jabón neutro, secando al instante. Evita el alcohol en gel puro o toallitas desinfectantes con amonio cuaternario o cloro de forma repetida sobre espumas EVA porosas, ya que resecan el material y provocan grietas prematuras con el sol."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +152,6 @@
     "/mantenimiento-limpieza-y-repuestos/lubricante-silicona-seca-vs-aceite-ruedas-en-doona-car-seat-stroller/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-mantenimiento-limpieza-y-repuestos.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/mantenimiento-limpieza-y-repuestos.webp"
 }

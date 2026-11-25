@@ -26,7 +26,7 @@ def main():
                 "category": a["pillar"],
                 "category_name": cats.get(a["pillar"], a["pillar"]),
                 "excerpt": a.get("excerpt") or a.get("metaDescription") or "",
-                "featured_image": f"/img/ambiente/cat-{a['pillar']}.webp",
+                "featured_image": f"/img/articulos/{a['slug']}.webp",
                 "read_time": f"{a.get('readingMinutes', 7)} min",
                 "search_text": f"{a['title']} {a['primaryKeyword']} {a.get('excerpt', '')}".lower(),
                 "active": True,

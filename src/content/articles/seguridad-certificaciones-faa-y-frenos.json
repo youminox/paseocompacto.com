@@ -4,152 +4,144 @@
   "path": "/seguridad-certificaciones-faa-y-frenos/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "seguridad coche de bebe compacto certificacion faa y frenos",
   "title": "Seguridad Infantil en Viajes: Certificaciones FAA, ASTM, Arnés de 5 Puntos y Centro de Gravedad",
   "seoTitle": "Seguridad Infantil en Viajes: Certificaciones FAA, ASTM, Arnés de 5 Puntos y Centro de Gravedad | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre normas oficiales FAA para asientos de auto en avión, estándares ASTM/JPMA, ajuste del arnés, frenos de pie en pendientes y cómo evitar vuelcos por exceso de peso en el manillar. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 120 guías sobre normas oficiales FAA para asientos de auto en avión, estándares ASTM/JPMA, ajuste del arnés, frenos de pie en pendientes y cómo evitar vuelcos por exceso de peso en el manillar con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 120 guías sobre normas oficiales FAA para asientos de auto en avión, estándares ASTM/JPMA, ajuste del arnés, frenos de pie en pendientes y cómo evitar vuelcos por exceso de peso en el manillar. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Guía de seguridad en coches de bebé compactos: diferencia certificación FAA y ASTM/JPMA, ajusta el arnés de 5 puntos, frena en pendientes y evita vuelcos.",
+  "excerpt": "Entiende qué avalan realmente los sellos FAA, FMVSS 213 y ASTM F833 al viajar, cómo equilibrar el centro de gravedad en chasis ultraligeros y cómo usar el freno trasero en calles inclinadas o transporte.",
+  "quickAnswer": "La certificación FAA + FMVSS 213 (presente en el Doona 2-en-1 y sillas de auto infantiles) es la única que permite instalar al bebé sujeto en un asiento de avión, mientras que ASTM F833 / JPMA certifica frenos, estabilidad y arnés de 5 puntos en coches de paseo. En chasis ultraligeros de 11 a 13 lb, evita colgar bolsos mayores a 1.5 kg en el manillar para no alterar el centro de gravedad y prevenir vuelcos.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Overhead flat-lay travel composition beside passport pouch and folded baby gear (35mm lens): close-up macro photograph of a secure 5-point stroller harness buckle and locked rear wheel foot brake on clean pavement, next to a waterproof bright red gate-check travel bag with backpack straps, warm golden-hour afternoon sunlight during family travel. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Overhead tabletop flat-lay and side-by-side gear arrangement on 35mm lens: close-up macro photograph of a secure 5-point stroller harness buckle and locked rear wheel foot brake on clean pavement, in an air-travel family boarding context in espresso brown trim on oatmeal melange fabric and black chassis, on a historic European cobblestone pedestrian street near café chairs, warm welcoming indoor-outdoor threshold daylight. Topic focus: seguridad certificaciones faa y frenos. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Seguridad Infantil en Viajes: Certificaciones FAA, ASTM, Arnés de 5 Puntos y Centro de Gravedad"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Seguridad Infantil en Viajes: Certificaciones FAA, ASTM, Arnés de 5 Puntos y Centro de Gravedad** en **PaseoCompacto.com**. Aquí reunimos nuestras **120 guías verificadas** sobre **normas oficiales FAA para asientos de auto en avión, estándares ASTM/JPMA, ajuste del arnés, frenos de pie en pendientes y cómo evitar vuelcos por exceso de peso en el manillar**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "En las puertas de embarque se repite a diario una confusión que cuesta discusiones con la tripulación: que un coche tenga **tamaño de cabina IATA** (como el **Babyzen YOYO2 / Stokke YOYO3** o el **gb Pockit+ All-Terrain**) solo significa que entra plegado en el maletero superior del avión, jamás que sirva para sentar al bebé durante el despegue. La verdadera **certificación FAA** exige pruebas dinámicas de impacto y turbulencia, exclusivas de sistemas de retención infantil como el **Doona Car Seat & Stroller** o los portabebés de auto acoplables."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Seguridad Infantil en Viajes"
+      "text": "Qué exigen realmente las normas FAA, FMVSS 213 y ASTM F833"
     },
     {
       "type": "p",
-      "text": "En cada una de las **120 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "Al adquirir equipamiento infantil en Amazon Estados Unidos conviven dos familias normativas complementarias. Por un lado, la norma federal **FMVSS 213** junto con la homologación **FAA** certifica protección ante colisiones viales y uso asegurado con el cinturón de un asiento de avión comercial; el **Doona** (**4 a 35 lb / 1.8–15.8 kg**, **60 × 44 × 66 cm** en modo silla) cumple ambas sin llevar base adicional. Por otro lado, la norma **ASTM F833** (respaldada por el sello voluntario **JPMA**) audita la integridad mecánica de los coches de paseo: resistencia de los frenos de estacionamiento, estabilidad en rampa de 12 grados, retención del arnés y ausencia de huecos donde queden atrapados los dedos. Profundiza en cada sigla leyendo [qué significa cada certificación FAA, ASTM y JPMA en coches de viaje](/seguridad-certificaciones-faa-y-frenos/que-significa-certificacion-faa-astm-jpma-coche-viaje/)."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Seguridad Infantil en Viajes: Certificaciones FAA, ASTM, Arnés de 5 Puntos y Centro de Gravedad",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Norma o categoría",
+        "Qué garantiza realmente",
+        "Ubicación en el avión",
+        "Modelos representativos"
       ],
       "rows": [
         [
-          "Certificaciones FAA, FMVSS 213, ASTM F833 y JPMA en Coches Compactos y Sillas de Viaje",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/que-significa-certificacion-faa-astm-jpma-coche-viaje/)"
+          "FAA + FMVSS 213",
+          "Protección ante choque vial y turbulencia severa en vuelo",
+          "Instalado con cinturón en asiento propio pagado",
+          "Doona Car Seat & Stroller y huevitos acoplables"
         ],
         [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas en Coches Ultraligeros Ingenuity",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-coches-ultraligeros-ingenuity/)"
+          "ASTM F833 / Sello JPMA",
+          "Frenos firmes, arnés 5 puntos, estabilidad y chasis sin pellizcos",
+          "Según medidas plegado (cabina o bodega)",
+          "Ingenuity 3Dlite, Kolcraft Cloud Plus, Graco Ready2Jet"
         ],
         [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas en Kolcraft Cloud Plus",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-kolcraft-cloud-plus/)"
+          "Compatible Cabina IATA",
+          "Medida cerrada ~55 × 35–40 × 20–23 cm (no es silla de vuelo)",
+          "Compartimento superior (Overhead Bin)",
+          "Stokke YOYO3, Joolz Aer+, Munchkin Sparrow, Butterfly"
         ],
         [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas en Silla de Auto Doona",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-doona-2-en-1/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas Durante Vuelos Comerciales",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-durante-viajes-en-avion/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas Al Instalar Organizadores de Manillar",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-al-usar-organizadores-de-manillar/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas en Calles Inclinadas y Rampas",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-ciudades-con-pendientes/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas Con Bebés Activos que Se Inclinan",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-con-bebes-que-ya-se-sientan/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas Al Elegir Accesorios Universales",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-al-comprar-accesorios-compatibles/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas Revisando Especificaciones en Amazon",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-verificando-etiquetas-en-amazon/)"
-        ],
-        [
-          "Por Qué Vuelcan los Coches Ligeros al Colgar Bolsas Pesadas Como Checklist Antes de Salir",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-antes-de-cada-trayecto-familiar/)"
-        ],
-        [
-          "Ajuste Correcto del Arnés de 5 Puntos (Prueba de 2 Dedos) en Coches Ultraligeros Ingenuity",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/como-ajustar-arnes-5-puntos-correctamente-en-coches-ultraligeros-ingenuity/)"
-        ],
-        [
-          "Ajuste Correcto del Arnés de 5 Puntos (Prueba de 2 Dedos) en Kolcraft Cloud Plus",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/como-ajustar-arnes-5-puntos-correctamente-en-kolcraft-cloud-plus/)"
-        ],
-        [
-          "Ajuste Correcto del Arnés de 5 Puntos (Prueba de 2 Dedos) en Silla de Auto Doona",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/como-ajustar-arnes-5-puntos-correctamente-en-doona-2-en-1/)"
-        ],
-        [
-          "Ajuste Correcto del Arnés de 5 Puntos (Prueba de 2 Dedos) Durante Vuelos Comerciales",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/como-ajustar-arnes-5-puntos-correctamente-durante-viajes-en-avion/)"
-        ],
-        [
-          "Ajuste Correcto del Arnés de 5 Puntos (Prueba de 2 Dedos) Al Instalar Organizadores de Manillar",
-          "[Ver guía completa](/seguridad-certificaciones-faa-y-frenos/como-ajustar-arnes-5-puntos-correctamente-al-usar-organizadores-de-manillar/)"
+          "Entrega en Gate Check",
+          "Transporte gratuito de chasis más largos hasta la manga del avión",
+          "Bodega desde puerta de embarque (con funda)",
+          "Ingenuity 3Dlite/3Dmini (43\") y 3Dquickclose CS+"
         ]
-      ]
+      ],
+      "caption": "Diferencias prácticas entre certificaciones de seguridad y modalidades de vuelo"
+    },
+    {
+      "type": "h2",
+      "text": "Centro de gravedad en chasis ligeros: cómo evitar vuelcos hacia atrás"
+    },
+    {
+      "type": "p",
+      "text": "Un coche compacto logra pesar apenas **11 lb (4.9 kg)** en el **Ingenuity 3Dmini**, **11.8 lb (5.3 kg)** en el **Kolcraft Cloud Plus** o **13 lb (5.9 kg)** en el **Ingenuity 3Dlite** gracias a tuberías ligeras de aluminio o acero delgado. Esa ligereza implica que el propio cuerpo del niño actúa como contrapeso delante del eje trasero. Si cuelgas una pañalera cargada o bolsas de compras que superen **1.5 kg (3.3 lb)** en los manillares, desplazas el centro de gravedad por detrás de las ruedas traseras: en el segundo exacto en que levantas al bebé en brazos, el coche cae de espaldas con fuerza. Revisa nuestras pruebas sobre el [riesgo de vuelco por colgar bolsas en coches ultraligeros Ingenuity](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-coches-ultraligeros-ingenuity/) y aprende [cómo usar organizadores de manillar sin desestabilizar el coche](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-al-usar-organizadores-de-manillar/) llevando termos y pañales siempre en la canasta inferior."
     },
     {
       "type": "callout",
       "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      "text": "Los sobrecargos aéreos tienen instrucción estricta de verificar visualmente la pegatina adherida al plástico antes de cerrar puertas; no basta mostrar el manual digital en el móvil. Si compraste asiento para usar un Doona o portabebé en cabina, localiza de antemano el texto impreso en letras rojas sobre fondo blanco: \"THIS RESTRAINT IS CERTIFIED FOR USE IN MOTOR VEHICLES AND AIRCRAFT\" para enseñarlo en segundos al abordar.",
+      "title": "Localiza la etiqueta roja FAA en la carcasa antes de subir al avión"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Arnés de 5 puntos y frenos traseros en calles con pendiente"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "En paseos cortos resulta tentador abrochar solo la cintura dejando sueltas las tiras superiores, pero un niño curioso puede incorporarse o escurrirse por debajo al bajar un bordillo; usa siempre los **5 puntos completos** (dos hombros, dos caderas y entrepierna) y retira casacas acolchadas gruesas antes de ajustar las cintas para eliminar holguras falsas, abrigándolo por encima del arnés. Asimismo, al recorrer destinos con cuestas o andenes de tren, presta atención al sistema de frenado: modelos como **Doona** o **Bugaboo Butterfly** bloquean el eje completo con un solo pedal vinculado, mientras que chasis ligeros como **Ingenuity 3Dlite** y **Kolcraft Cloud Plus** llevan pedales dobles independientes donde debes trabar ambas ruedas traseras, tal como explicamos en nuestras [precauciones de frenado y equilibrio en ciudades con pendientes](/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-ciudades-con-pendientes/)."
+    },
+    {
+      "type": "h3",
+      "text": "Chequeo preventivo antes de soltar el manillar o cruzar calzadas"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        {
+          "name": "1. Confirmación de apertura total",
+          "text": "Al desplegar el coche, empuja con firmeza la cruceta trasera o tira suavemente del manillar hacia arriba para asegurarte de que los seguros primarios hicieron clic completo."
+        },
+        {
+          "name": "2. Prueba del pellizco sobre la clavícula",
+          "text": "Tras cerrar la hebilla central de 5 puntos, pasa dos dedos sobre la cinta del hombro: no debe sobrar pliegue longitudinal de correa que puedas pellizcar entre índice y pulgar."
+        },
+        {
+          "name": "3. Bloqueo bilateral en cada parada",
+          "text": "Acostúmbrate a pisar el freno trasero incluso para revisar el teléfono dos segundos; si el coche tiene dos levas traseras, pisa izquierda y derecha para evitar que pivote sobre una rueda libre."
+        },
+        {
+          "name": "4. Distribución baja del equipaje de mano",
+          "text": "Guarda botellas de agua, mudas de ropa y cargadores en la cesta bajo el asiento, reservando el organizador superior solo para objetos livianos de acceso inmediato."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "¿Tienes dudas sobre si tu coche actual cumple las normas de tu aerolínea o cómo elegir el chasis más estable? Escríbele a nuestro Asesor IA o revisa los modelos certificados disponibles en las tarjetas de Amazon."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Seguridad Infantil en Viajes: Certificaciones FAA, ASTM, Arnés de 5 Puntos y Centro de Gravedad?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿Necesito comprar un asiento de avión extra para subir el Doona certificado por la FAA?",
+      "a": "Sí, para garantizar el uso del Doona en cabina durante el vuelo debes adquirir un boleto con asiento asignado para el infante (preferiblemente en ventanilla para no bloquear la evacuación de otros pasajeros). Si viajas con bebé en brazos sin asiento propio (\"lap infant\"), solo podrás usarlo a bordo si quedan asientos vacíos contiguos y la aerolínea accede en puerta; de lo contrario irá a bodega en Gate Check."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Son seguros los coches de bebé comprados en EE. UU. con norma ASTM si viajo a Europa o Latinoamérica?",
+      "a": "Sí. Los coches vendidos en Estados Unidos bajo norma federal de la CPSC y estándar ASTM F833 (especialmente con sello JPMA) superan pruebas severas de frenado, impacto de bordillos, toxicidad de materiales y retención de arnés equivalentes en rigor a la norma europea EN 1888, por lo que puedes viajar y usarlos con total tranquilidad en cualquier destino."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Por qué es más seguro un organizador horizontal de velcro que colgar ganchos metálicos?",
+      "a": "Los organizadores universales con correas cortas de velcro antideslizante se fijan pegados a las barras laterales o al puente superior sin bambolearse, y al ser pequeños limitan de forma natural el peso cargado. En cambio, los ganchos mosquetón invitan a colgar mochilas pesadas muy abajo y atrás, multiplicando el efecto palanca que provoca vuelcos."
+    },
+    {
+      "q": "¿Conviene usar correa de muñeca en el manillar al caminar por calles inclinadas?",
+      "a": "No todos la traen de fábrica (algunos modelos urbanos como Babyzen YOYO2/YOYO3 sí la incorporan), pero añadir una correa textil de seguridad alrededor de tu muñeca cuesta muy poco y evita que el coche ruede cuesta abajo si tropiezas en una rampa húmeda o rampa mecánica de aeropuerto."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +152,6 @@
     "/seguridad-certificaciones-faa-y-frenos/riesgo-de-vuelco-bolsas-en-manillar-ligero-en-doona-2-en-1/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-seguridad-certificaciones-faa-y-frenos.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/seguridad-certificaciones-faa-y-frenos.webp"
 }

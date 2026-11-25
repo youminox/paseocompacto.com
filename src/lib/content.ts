@@ -65,112 +65,10 @@ function isValidArticle(a: Partial<Article>): a is Article {
   );
 }
 
-const PILLAR_SCENE_POOLS: Record<string, string[]> = {
-  "resenas-coches-compactos-de-viaje": [
-    "cat-resenas-coches-compactos-de-viaje",
-    "scene-resenas-2",
-    "scene-resenas-3",
-    "home-hero-viaje",
-  ],
-  "comparativas-coches-de-bebe": [
-    "cat-comparativas-coches-de-bebe",
-    "scene-comparativas-2",
-    "scene-comparativas-3",
-    "og-default",
-  ],
-  "mejores-coches-por-viaje-y-auto": [
-    "cat-mejores-coches-por-viaje-y-auto",
-    "scene-viaje-auto-2",
-    "scene-viaje-auto-3",
-    "home-maletera-sedan",
-  ],
-  "bolsos-de-transporte-y-fundas-avion": [
-    "cat-bolsos-de-transporte-y-fundas-avion",
-    "scene-bolsos-2",
-    "scene-bolsos-3",
-    "home-gate-check",
-  ],
-  "protectores-de-lluvia-y-clima": [
-    "cat-protectores-de-lluvia-y-clima",
-    "scene-lluvia-2",
-    "scene-lluvia-3",
-    "home-lluvia-paseo",
-  ],
-  "organizadores-y-accesorios-compatibles": [
-    "cat-organizadores-y-accesorios-compatibles",
-    "scene-organizadores-2",
-    "scene-organizadores-3",
-    "home-organizador-manillar",
-  ],
-  "viajar-en-avion-cabina-y-gate-check": [
-    "cat-viajar-en-avion-cabina-y-gate-check",
-    "scene-avion-2",
-    "scene-avion-3",
-    "home-gate-check",
-    "home-cabina-avion",
-  ],
-  "espacio-en-maletera-y-viajes-en-auto": [
-    "cat-espacio-en-maletera-y-viajes-en-auto",
-    "scene-maletera-2",
-    "scene-maletera-3",
-    "home-maletera-sedan",
-    "home-doona-asiento",
-  ],
-  "guias-de-plegado-peso-y-medidas": [
-    "cat-guias-de-plegado-peso-y-medidas",
-    "scene-plegado-2",
-    "scene-plegado-3",
-    "home-plegado-una-mano",
-  ],
-  "etapas-del-bebe-edad-peso-y-reclinado": [
-    "cat-etapas-del-bebe-edad-peso-y-reclinado",
-    "scene-etapas-2",
-    "scene-etapas-3",
-    "home-doona-asiento",
-  ],
-  "seguridad-certificaciones-faa-y-frenos": [
-    "cat-seguridad-certificaciones-faa-y-frenos",
-    "scene-seguridad-2",
-    "scene-seguridad-3",
-  ],
-  "mantenimiento-limpieza-y-repuestos": [
-    "cat-mantenimiento-limpieza-y-repuestos",
-    "scene-mantenimiento-2",
-    "scene-mantenimiento-3",
-  ],
-  "destinos-paseos-urbanos-y-logistica-familiar": [
-    "cat-destinos-paseos-urbanos-y-logistica-familiar",
-    "scene-destinos-2",
-    "scene-destinos-3",
-    "home-parques-ciudad",
-  ],
-  "guia-de-compra-en-amazon-usa-y-equipaje": [
-    "cat-guia-de-compra-en-amazon-usa-y-equipaje",
-    "scene-amazon-usa-2",
-    "scene-amazon-usa-3",
-    "og-default",
-  ],
-};
-
-function resolveArticleImage(
-  a: Article,
-  pillarCountMap: Map<string, number>
-): string {
+function resolveArticleImage(a: Article): string {
   const imgArt = path.join(PUBLIC, "img/articulos", `${a.slug}.webp`);
   if (fs.existsSync(imgArt)) {
     return `/img/articulos/${a.slug}.webp`;
-  }
-  if (a.isPillar) {
-    const imgCat = path.join(PUBLIC, "img/ambiente", `cat-${a.pillar}.webp`);
-    if (fs.existsSync(imgCat)) return `/img/ambiente/cat-${a.pillar}.webp`;
-  }
-  const idx = pillarCountMap.get(a.pillar) || 0;
-  pillarCountMap.set(a.pillar, idx + 1);
-  const pool = PILLAR_SCENE_POOLS[a.pillar] || ["home-hero-viaje"];
-  const candidate = pool[idx % pool.length];
-  const candidatePath = path.join(PUBLIC, "img/ambiente", `${candidate}.webp`);
-  if (fs.existsSync(candidatePath)) {
-    return `/img/ambiente/${candidate}.webp`;
   }
   const imgAmb = path.join(PUBLIC, "img/ambiente", `cat-${a.pillar}.webp`);
   return fs.existsSync(imgAmb)
@@ -186,13 +84,12 @@ export function getAllContent(): Article[] {
     : [];
   const list: Article[] = [];
   const seen = new Set<string>();
-  const pillarCountMap = new Map<string, number>();
   for (const f of files) {
     try {
       const a = JSON.parse(fs.readFileSync(path.join(DIR, f), "utf8"));
       if (!isValidArticle(a) || seen.has(a.path)) continue;
       seen.add(a.path);
-      const imageUrl = resolveArticleImage(a, pillarCountMap);
+      const imageUrl = resolveArticleImage(a);
       list.push({
         ...a,
         isPillar: Boolean(a.isPillar),

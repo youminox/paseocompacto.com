@@ -4,152 +4,132 @@
   "path": "/destinos-paseos-urbanos-y-logistica-familiar/",
   "isPillar": true,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "logistica viaje con bebe parques tematicos adoquines y cruceros",
   "title": "Destinos y Logística Familiar: Adoquines, Parques Temáticos, Playas y Cruceros con Coche Ligero",
   "seoTitle": "Destinos y Logística Familiar: Adoquines, Parques Temáticos, Playas y Cruceros con Coche Ligero | PaseoCompacto.com",
-  "metaDescription": "Guía en español sobre consejos prácticos según terreno y destino: ruedas en calles empedradas, jornadas largas en Orlando/Disney, pasillos estrechos de cruceros, restaurantes y transporte público. Compara Ingenuity, Kolcraft y Doona en Amazon EE. UU.",
-  "excerpt": "Explora las 120 guías sobre consejos prácticos según terreno y destino: ruedas en calles empedradas, jornadas largas en Orlando/Disney, pasillos estrechos de cruceros, restaurantes y transporte público con medidas reales, cierre con una mano y espacio en maletera.",
-  "quickAnswer": "En esta sección reunimos 120 guías sobre consejos prácticos según terreno y destino: ruedas en calles empedradas, jornadas largas en Orlando/Disney, pasillos estrechos de cruceros, restaurantes y transporte público. Comparamos modelos de Ingenuity, Kolcraft y Doona según su peso, medidas al plegarse, cierre con una mano y espacio libre en la maletera junto a sus accesorios compatibles en Amazon EE. UU.",
-  "readingMinutes": 8,
+  "metaDescription": "Guía práctica de logística con bebé en parques temáticos, calles adoquinadas, playas y cruceros: qué coche compacto elegir según terreno, pasillos y clima.",
+  "excerpt": "No rinde igual un coche compacto en el asfalto liso de Orlando que sobre adoquines europeos o en el camarote estrecho de un crucero. Revisa qué chasis, ruedas y plegado resuelven cada destino familiar.",
+  "quickAnswer": "Para acertar con la logística del coche compacto debes cruzar tres datos del destino: el pavimento (ruedas bloqueables y suspensión en adoquines frente a giro ágil en parques temáticos), el ancho de paso (puertas de crucero de 56–58 cm y torniquetes de transporte público) y la rapidez de plegado al abordar autobuses, tranvías o taxis.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial family travel photography, Side-profile studio photograph highlighting lightweight aluminum joints, folding latch and wheels: family pushing a nimble compact stroller past European café tables along a sunny pedestrian promenade, next to a measuring tape highlighting ultra-compact folded footprint, warm golden-hour afternoon sunlight during family travel. Authentic aluminum frame, fabric canopy texture and wheels, no text, no letters, no logos, no watermarks.",
+    "prompt": "Natural family boardwalk stroll framing from 45-degree front angle on 50mm lens: family pushing a nimble compact stroller past European café tables along a sunny pedestrian promenade, featuring an extended UPF50+ sun visor shade and ventilated mesh backrest in pearl gray fabric with sleek black single-bar handle, on a breezy resort courtyard patio with terracotta tiles, soft coastal daylight with clean sky reflections. Topic focus: destinos paseos urbanos y logistica familiar. Photorealistic authentic travel gear details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Destinos y Logística Familiar: Adoquines, Parques Temáticos, Playas y Cruceros con Coche Ligero"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub especializado de **Destinos y Logística Familiar: Adoquines, Parques Temáticos, Playas y Cruceros con Coche Ligero** en **PaseoCompacto.com**. Aquí reunimos nuestras **120 guías verificadas** sobre **consejos prácticos según terreno y destino: ruedas en calles empedradas, jornadas largas en Orlando/Disney, pasillos estrechos de cruceros, restaurantes y transporte público**, organizadas sin solapamientos para ayudarte a comparar y consultar disponibilidad en **Amazon Estados Unidos (`amazon.com`)** o **Amazon España (`amazon.es`)**."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si quieres revisar la reseña del **[Ingenuity 3Dlite Convenience](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)**, comprobar el cierre con una mano del **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)**, evaluar el **[Doona 2-en-1 FAA](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** o elegir **[bolsos de transporte Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, cada página te entrega datos concretos."
+      "text": "Empujar un coche de bebé sobre el pavimento impecable de Orlando exige exactamente lo opuesto que cruzar las aceras estrechas del centro histórico de Madrid o maniobrar frente a un carro de limpieza en el pasillo de un crucero. Muchas familias eligen su coche ligero mirando únicamente el peso en la caja, y descubren a mitad de las vacaciones que unas ruedas dobles sin bloqueo se traban en cada junta de piedra o que el chasis roza el marco del camarote. Ajustar la elección al terreno, el clima y los transbordos evita terminar con el niño en brazos antes del almuerzo."
     },
     {
       "type": "h2",
-      "text": "Qué evaluamos en Destinos y Logística Familiar"
+      "text": "Parques temáticos en jornadas de doce horas: tranvías, chaparrones y medidas límite"
     },
     {
       "type": "p",
-      "text": "En cada una de las **120 guías** de esta sección contrastamos cuatro datos decisivos antes de viajar: **1) Peso real en libras (`lb`) y kilogramos (`kg`)**; **2) Medidas plegado en pulgadas (`in`) y centímetros (`cm`)**; **3) Facilidad real para cerrarlo con una sola mano**; y **4) Espacio que deja libre en la maletera para el equipaje**, junto con bolsos de transporte, protectores de lluvia y organizadores compatibles."
+      "text": "En complejos como Walt Disney World o Universal Orlando caminarás entre 12 y 18 kilómetros diarios combinando humedad intensa, filas de seguridad y lluvias tropicales de veinte minutos. Los reglamentos actuales de Disney prohíben los carros de arrastre (*wagons*) y restringen los coches a un máximo de **31\" × 52\" (79 × 132 cm)**. El verdadero examen ocurre al subir al autobús del hotel o al tranvía del estacionamiento, donde toca vaciar y plegar en segundos. Ahí funcionan de maravilla dos estrategias: recorrer los parques con un [Ingenuity 3Dlite colgado al hombro en los transbordos](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-ingenuity-3dlite-al-hombro/) (**13 lb / 5.9 kg**, soporta hasta **50 lb**) para liberar ambas manos, o elegir el [Kolcraft Cloud Plus con doble bandeja y cierre de una mano](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-kolcraft-cloud-plus-bandeja/) (**11.8 lb / 5.3 kg**), que se mantiene de pie sin ensuciar la tela en el asfalto mojado."
+    },
+    {
+      "type": "h2",
+      "text": "Centros históricos adoquinados, escaleras de metro y veredas irregulares"
+    },
+    {
+      "type": "p",
+      "text": "En ciudades con cascos antiguos empedrados —desde Lisboa o Roma hasta Cartagena y Cusco—, las ruedas plásticas pequeñas vibran demasiado si giran libres a 360 grados. Como detallamos en nuestra [guía para viajar por calles adoquinadas y parques](/destinos-paseos-urbanos-y-logistica-familiar/guia-viajar-con-coche-compacto-calles-adoquinadas-y-parques/), el primer gesto técnico al pisar piedra irregular consiste en accionar las trabas delanteras para fijar el eje en línea recta y evitar que las ruedas se crucen en una grieta. Si además tu itinerario suma estaciones de metro sin ascensor, rinden mucho mejor los chasis ultracompactos de rueda simple con amortiguación independiente, como **Babyzen YOYO2 / Stokke YOYO3** (**13.6 lb / 6.2 kg**, plegado **52 × 44 × 18 cm**), **Bugaboo Butterfly** (**16.1 lb / 7.3 kg**) o **gb Pockit+ All-Terrain** (**12.3 lb / 5.6 kg**, hasta **55 lb**)."
+    },
+    {
+      "type": "h2",
+      "text": "Cruceros, paseos de playa y restaurantes urbanos con mesas juntas"
+    },
+    {
+      "type": "p",
+      "text": "A bordo de un crucero, la puerta estándar de un camarote exterior o con balcón deja apenas entre 56 y 58 centímetros de paso útil, y los pasillos largos se estrechan cuando hay equipaje o carros de camarería. Un coche doméstico ancho te obligará a plegarlo en el corredor cada vez que entres a descansar. En cambio, un modelo de cierre vertical autónomo como el **Kolcraft Cloud Plus** (**46 × 30 × 86 cm**) entra directo en el armario de la cabina, mientras que un tríptico plano como **Joolz Aer+** (**13.2 lb / 6 kg**, **53.5 × 45 × 21.5 cm**) se desliza bajo la cama. En destinos de playa, recuerda que ningún coche compacto avanza empujando de frente sobre arena seca: inclínalo sobre sus dos ruedas traseras, tira de espaldas hasta la sombrilla y enjuaga los ejes con agua dulce al volver al hotel para frenar el salitre."
     },
     {
       "type": "table",
-      "caption": "Guías destacadas en Destinos y Logística Familiar: Adoquines, Parques Temáticos, Playas y Cruceros con Coche Ligero",
       "headers": [
-        "Guía / Comparativa Especializada",
-        "Enlace Directo"
+        "Tipo de destino",
+        "Desafío real en ruta",
+        "Configuración recomendada",
+        "Modelos de referencia"
       ],
       "rows": [
         [
-          "Cómo Sobrevivir con un Coche Compacto en Calles Adoquinadas, Parques Temáticos y Ciudades Antiguas",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/guia-viajar-con-coche-compacto-calles-adoquinadas-y-parques/)"
+          "Parques temáticos (Orlando / California)",
+          "Transbordos en autobús, siestas largas y lluvia súbita",
+          "Reclinado profundo, cesta amplia y plegado rápido bajo 14 lb",
+          "Ingenuity 3Dlite (13 lb) / Kolcraft Cloud Plus (11.8 lb)"
         ],
         [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Cargando el Ingenuity 3Dlite",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-ingenuity-3dlite-al-hombro/)"
+          "Ciudades con adoquines y metro",
+          "Vibración en piedra suelta y tramos de escaleras",
+          "Rueda simple con suspensión, bloqueo frontal y correa al hombro",
+          "Stokke YOYO3 (13.6 lb) / Bugaboo Butterfly (16.1 lb)"
         ],
         [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Aprovechando la Bandeja de Kolcraft",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-kolcraft-cloud-plus-bandeja/)"
+          "Cruceros y locales pequeños",
+          "Puertas de camarote de ~56 cm y cero espacio entre mesas",
+          "Ancho contenido y plegado que quede de pie o quepa bajo la cama",
+          "Joolz Aer+ (13.2 lb) / Contours Bitsy Elite (13.6 lb)"
         ],
         [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Con la Agilidad del Doona 2-en-1",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-doona-sin-equipaje-en-cajuela/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Usando Organizador de Manillar",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-organizador-termico-y-portavasos/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Llevando Burbuja y Protección UV",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-protector-solar-y-lluvia-listo/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Reduciendo Cansancio en Vacaciones",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-ahorrando-energia-en-traslados/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Al Hacer Compras en Vacaciones",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-evitando-vuelcos-con-bolsas-de-compras/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Cuidando el Confort del Bebé",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-manteniendo-al-bebe-fresco-y-comodo/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Entrando en Taxis y Autos Chicos",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-sin-depender-de-taxis-grandes/)"
-        ],
-        [
-          "Reglas y Consejos de Coche para Disney y Universal Orlando Cumpliendo Normas de Parques y Museos",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-siguiendo-normas-de-seguridad-locales/)"
-        ],
-        [
-          "Conducir Ruedas Compactas en Adoquines (Roma, París, Cusco) Cargando el Ingenuity 3Dlite",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-calles-adoquinadas-europa-con-ingenuity-3dlite-al-hombro/)"
-        ],
-        [
-          "Conducir Ruedas Compactas en Adoquines (Roma, París, Cusco) Aprovechando la Bandeja de Kolcraft",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-calles-adoquinadas-europa-con-kolcraft-cloud-plus-bandeja/)"
-        ],
-        [
-          "Conducir Ruedas Compactas en Adoquines (Roma, París, Cusco) Con la Agilidad del Doona 2-en-1",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-calles-adoquinadas-europa-con-doona-sin-equipaje-en-cajuela/)"
-        ],
-        [
-          "Conducir Ruedas Compactas en Adoquines (Roma, París, Cusco) Usando Organizador de Manillar",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-calles-adoquinadas-europa-con-organizador-termico-y-portavasos/)"
-        ],
-        [
-          "Conducir Ruedas Compactas en Adoquines (Roma, París, Cusco) Llevando Burbuja y Protección UV",
-          "[Ver guía completa](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-calles-adoquinadas-europa-con-protector-solar-y-lluvia-listo/)"
+          "Escapadas urbanas con recién nacido",
+          "Subir y bajar de taxis o Uber sin llevar silla aparte",
+          "Sistema híbrido 2-en-1 instalable con cinturón sin ocupar cajuela",
+          "Doona Car Seat & Stroller (16.5 lb, hasta 35 lb)"
         ]
-      ]
+      ],
+      "caption": "Qué arquitectura de coche ligero responde mejor según el entorno del viaje"
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Regla rápida: Cabina IATA vs Gate Check y Maletera",
-      "text": "Recuerda distinguir entre coches ultracompactos que entran en el compartimento superior del avión (34–54 cm) y coches paraguas/verticales (Ingenuity 3Dlite / Kolcraft Cloud Plus) que se entregan gratis en puerta de embarque (Gate Check) protegidos dentro de un bolso impermeable."
+      "variant": "aviso",
+      "text": "Los chasis de aluminio de entre 11 y 13 lb tienen un centro de gravedad muy liviano. Si cuelgas mochilas cargadas o bolsas de compras de más de 1.5 kg en los manillares, el coche basculará hacia atrás en el instante en que levantes al niño del asiento. Guarda siempre el peso firme en la canasta inferior.",
+      "title": "Atención al centro de gravedad con bolsas en el manillar"
     },
     {
       "type": "h2",
-      "text": "Cómo elegir tu coche compacto de viaje en 3 pasos"
+      "text": "Rutina logística de cinco minutos antes de salir del hotel"
     },
     {
-      "type": "ol",
+      "type": "ul",
       "items": [
-        "**Define la edad de tu bebé y si viajas en auto o taxi:** para recién nacidos (4–35 lb) el **[Doona 2-en-1](/resenas-coches-compactos-de-viaje/doona-car-seat-stroller-2-en-1-avion-faa-resena-completa/)** va en el asiento dejando la maletera 100 % libre. De 6 meses a 4 años (hasta 50 lb), **[Ingenuity 3Dlite](/resenas-coches-compactos-de-viaje/ingenuity-3dlite-convenience-stroller-resena-peso-medidas-maletera/)** o **[Kolcraft Cloud Plus](/resenas-coches-compactos-de-viaje/kolcraft-cloud-plus-lightweight-stroller-resena-plegado-una-mano/)** cubren todo el viaje.",
-        "**Comprueba si necesitas cierre con una sola mano:** si viajas solo cargando al bebé, prioriza modelos con cierre en barra superior (**Kolcraft Cloud Plus**) o libro (**[Ingenuity 3Dquickclose](/resenas-coches-compactos-de-viaje/ingenuity-3dquickclose-cs-compact-fold-resena-plegado-libro/)**).",
-        "**Añade los 3 accesorios compatibles en Amazon EE. UU.:** suma siempre un **[bolso Gate Check](/bolsos-de-transporte-y-fundas-avion/mejores-bolsos-de-transporte-gate-check-ingenuity-kolcraft-doona/)**, un **[protector de lluvia EVA](/protectores-de-lluvia-y-clima/mejores-protectores-de-lluvia-compatibles-ingenuity-kolcraft-doona/)** y un **[organizador acorde a tu manillar](/organizadores-y-accesorios-compatibles/mejores-organizadores-manillar-compatibles-ingenuity-kolcraft-doona/)**."
+        "Reparte termos de agua y mudas de ropa en la cesta baja aplicando nuestras pautas para [evitar vuelcos con bolsas de compras en parques](/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-evitando-vuelcos-con-bolsas-de-compras/), reservando el organizador superior solo para el móvil, pañuelos y protector solar.",
+        "Lleva siempre a mano una burbuja de lluvia de EVA transparente libre de PVC con ventilación lateral; en climas húmedos protege tanto al bebé durante un aguacero como el tapizado si dejas el coche estacionado afuera de una atracción.",
+        "Coloca una cinta de color vivo en el manillar y un localizador discreto bajo el asiento: en parques temáticos el personal reordena constantemente las filas de estacionamiento de coches y todos los modelos negros lucen idénticos al salir.",
+        "Revisa antes de cruzar el lobby si el recorrido del día será sobre asfalto liso (ruedas delanteras en giro libre para maniobrar con una mano) o sobre empedrado antiguo (seguros frontales activados para ganar tracción)."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres confirmar si un modelo cabe en la maletera de tu auto o qué accesorios compatibles le hacen? Pregúntale ahora a nuestro Asesor IA."
+      "text": "Explora las guías específicas de cada destino en esta categoría, revisa la disponibilidad y colores actuales de cada modelo en las tarjetas de Amazon integradas o consulta a nuestro Asesor IA indicando a dónde viajas y la edad de tu bebé."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué marcas comparamos en Destinos y Logística Familiar: Adoquines, Parques Temáticos, Playas y Cruceros con Coche Ligero?",
-      "a": "Analizamos los modelos más vendidos y mejor valorados en Amazon Estados Unidos de Ingenuity (3Dlite, 3Dmini, 3Dquickclose CS+, 3Dlite Double), Kolcraft (Cloud Plus, Cloud Umbrella, Contours Bitsy Elite) y Doona (Car Seat & Stroller 2-en-1 FAA y Liki Trike), además de referentes de cabina como gb Pockit+ y YOYO."
+      "q": "¿El Ingenuity 3Dlite y el Kolcraft Cloud Plus cumplen las medidas permitidas por Disney?",
+      "a": "Sí, ambos entran con enorme holgura dentro del límite oficial de 31 pulgadas de ancho por 52 pulgadas de largo (79 × 132 cm) exigido en Walt Disney World y Disneyland, además de plegarse rápido para subir a los tranvías y autobuses internos."
     },
     {
-      "q": "¿Todos los modelos incluidos permiten consultar precio en Amazon Estados Unidos?",
-      "a": "Sí. Cada ficha enlaza directamente a Amazon.com (tag paseocompacto-20) con selector manual a Amazon.es (tag paseocompacto-21) para consultar precios, colores y disponibilidad al instante."
+      "q": "¿Se puede empujar un coche compacto de viaje directamente sobre la arena de la playa?",
+      "a": "No se recomienda meter ruedas pequeñas de uso urbano en arena suelta profunda porque los rodamientos abiertos acumulan granos de sílice que traban el giro. Úsalo en el malecón pavimentado y, para cruzar un tramo corto de arena seca, tira de él hacia atrás apoyado solo en las ruedas traseras."
     },
     {
-      "q": "¿Incluyen bolsos de transporte, protectores de lluvia y organizadores compatibles?",
-      "a": "Sí. Indicamos exactamente qué accesorios sirven para doble manillar curvo (Ingenuity 3Dlite/3Dmini) frente a barra corrida única (Kolcraft Cloud Plus y Doona)."
+      "q": "¿Qué medida debo vigilar si llevo coche de bebé a un crucero?",
+      "a": "Necesitas un chasis que abierto no supere los 53 cm de ancho exterior para cruzar puertas de camarote sin rozar, y que plegado quede plano o de pie por sí solo, como el Kolcraft Cloud Plus (46 × 30 × 86 cm) o un modelo de cabina IATA que entre debajo de la cama del camarote."
+    },
+    {
+      "q": "¿Qué tipo de plegado incomoda menos en restaurantes con poco espacio entre mesas?",
+      "a": "En restaurantes urbanos pequeños, un coche tipo paraguas de 43 pulgadas de largo estorba en el suelo si no hay guardarropa; allí rinde mucho mejor un plegado libro o vertical autónomo que puedas apoyar de pie en una esquina junto a tu mesa sin que toque la comida ni el paso de los camareros."
     }
   ],
   "sources": [
     {
-      "label": "Amazon.com Best Sellers in Lightweight Baby Strollers",
+      "label": "Amazon.com Baby Compact & Lightweight Strollers",
       "url": "https://www.amazon.com/Best-Sellers-Baby-Lightweight-Strollers/zgbs/baby-products/166842011"
     },
     {
-      "label": "FAA – Traveling with Children & Approved Child Restraint Systems",
+      "label": "FAA – Flying with Children & Stroller Guidance",
       "url": "https://www.faa.gov/travelers/fly_children"
     }
   ],
@@ -160,6 +140,6 @@
     "/destinos-paseos-urbanos-y-logistica-familiar/coche-compacto-en-parques-disney-orlando-con-doona-sin-equipaje-en-cajuela/"
   ],
   "datePublished": "2026-11-24",
-  "dateModified": "2026-11-24",
-  "imageUrl": "/img/ambiente/cat-destinos-paseos-urbanos-y-logistica-familiar.webp"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/destinos-paseos-urbanos-y-logistica-familiar.webp"
 }

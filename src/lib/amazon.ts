@@ -17,8 +17,6 @@ export interface AmazonProductRecommendation {
   title: string;
   subtitle: string;
   features: string[];
-  rating: string;
-  reviewsCount: string;
   categoryType: AmazonCategoryType;
   specs?: {
     weight: string;
@@ -83,18 +81,16 @@ export function detectUserAmazonRegion(): AmazonStoreRegion {
 export const CATALOG: Record<string, AmazonProductRecommendation> = {
   INGENUITY_3DLITE: {
     id: "ingenuity-3dlite-convenience",
-    badge: "🏆 #1 Más Vendido Calidad-Precio · Ingenuity",
+    badge: "🏆 Referente Equilibrio Peso-Reclinado · Ingenuity",
     title:
       "Ingenuity 3Dlite Convenience Stroller — Chasis Aluminio Ultraligero, Reclinado 4 Posiciones y Correa de Viaje",
     subtitle:
-      "El favorito indiscutible en Amazon EE. UU. para viajes familiares: pesa solo 13 lb (5.9 kg), reclina casi plano para siestas, lleva correa de hombro integrada y soporta niños hasta 50 lb (22.6 kg).",
+      "Uno de los modelos compactos más buscados en Amazon EE. UU. para viajes familiares: pesa solo 13 lb (5.9 kg), reclina casi plano para siestas, lleva correa de hombro integrada y soporta niños hasta 50 lb (22.6 kg).",
     features: [
       "Plegado 3D compacto con bloqueo automático lateral y correa acolchada para colgar al hombro en escaleras o aeropuertos",
       "Capota extra grande con visera abatible, canasta inferior amplia (hasta 10 lb) y bolsillo trasero con cremallera",
-      "Compatible al 100 % con fundas Gate Check tamaño paraguas, burbujas de lluvia universales y organizadores de doble manillar",
+      "Compatible con fundas Gate Check tamaño paraguas, burbujas de lluvia universales y organizadores de doble manillar",
     ],
-    rating: "4.7",
-    reviewsCount: "29.400+",
     categoryType: "compact-stroller",
     specs: {
       weight: "13 lb (5.9 kg) · Resiste hasta 50 lb (22.6 kg)",
@@ -104,12 +100,12 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
     },
     queryUS: "Ingenuity 3Dlite Convenience Stroller",
     queryES: "Ingenuity 3Dlite silla de paseo ligera",
-    ctaLabel: "Consultar Precio de Ingenuity 3Dlite en Amazon",
+    ctaLabel: "Ver Disponibilidad de Ingenuity 3Dlite en Amazon",
   },
 
   KOLCRAFT_CLOUD_PLUS: {
     id: "kolcraft-cloud-plus-lightweight",
-    badge: "✋ #1 Verdadero Plegado con 1 Sola Mano · Kolcraft",
+    badge: "✋ Verdadero Plegado con 1 Sola Mano · Kolcraft",
     title:
       "Kolcraft Cloud Plus Lightweight Easy-Fold Stroller — Plegado de Pie con 1 Mano (11.8 lb / 5.3 kg)",
     subtitle:
@@ -119,8 +115,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Incluye bandeja desmontable para el niño con portavasos y bandeja superior para padres + canasta accesible",
       "Soporta hasta 50 lb (22.6 kg) con ruedas delanteras con suspensión y capota extensible de 3 paneles",
     ],
-    rating: "4.6",
-    reviewsCount: "18.700+",
     categoryType: "one-hand-fold",
     specs: {
       weight: "11.8 lb (5.3 kg) · Resiste hasta 50 lb (22.6 kg)",
@@ -130,23 +124,21 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
     },
     queryUS: "Kolcraft Cloud Plus Lightweight Easy Fold Stroller",
     queryES: "Kolcraft Cloud Plus silla de paseo plegado una mano",
-    ctaLabel: "Ver Precio de Kolcraft Cloud Plus en Amazon",
+    ctaLabel: "Consultar Kolcraft Cloud Plus en Amazon",
   },
 
   DOONA_CAR_SEAT_STROLLER: {
     id: "doona-car-seat-stroller",
-    badge: "✈️ #1 Sistema 2-en-1 Certificado FAA · 0 % Maletera",
+    badge: "✈️ Sistema 2-en-1 Certificado FAA · 0 % Maletera",
     title:
       "Doona Car Seat & Stroller — Silla de Auto Certificada Avión FAA + Coche Integrado",
     subtitle:
-      "El rey absoluto para recién nacidos y bebés de hasta 12–15 meses que viajan en avión, taxi o Uber: aprietas un botón y las ruedas se despliegan o retraen en 1 segundo sin despertar al bebé.",
+      "Solución integral para recién nacidos y bebés de hasta 12–15 meses que viajan en avión, taxi o Uber: presionas un botón y las ruedas se despliegan o retraen en 1 segundo sin despertar al bebé.",
     features: [
       "Certificación FAA para viajar en asiento de avión sin despachar la silla y cumple FMVSS 213 en EE. UU.",
-      "No ocupa absolutamente nada en la maletera porque viaja instalada en el asiento trasero con o sin base LATCH",
+      "No ocupa espacio en la maletera porque viaja instalada en el asiento trasero con o sin base LATCH",
       "Compatible con la mochila acolchada Doona Padded Travel Bag, el protector de lluvia Snap-On y el bolso Essentials",
     ],
-    rating: "4.9",
-    reviewsCount: "14.200+",
     categoryType: "carseat-2in1",
     specs: {
       weight: "16.5 lb (7.5 kg) · Bebés de 4 a 35 lb y hasta 32\"",
@@ -156,23 +148,21 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
     },
     queryUS: "Doona Infant Car Seat Stroller",
     queryES: "Doona silla de coche y paseo 2 en 1",
-    ctaLabel: "Consultar Precio del Doona 2-en-1 en Amazon",
+    ctaLabel: "Consultar Doona 2-en-1 en Amazon",
   },
 
   INGENUITY_3DMINI: {
     id: "ingenuity-3dmini-convenience",
-    badge: "🪶 El Más Liviano y Económico (< US$60) · Ingenuity",
+    badge: "🪶 Ultraligero Compacto (11 lb / 4.9 kg) · Ingenuity",
     title:
       "Ingenuity 3Dmini Convenience Stroller — Ultraligero 11 lb (4.9 kg) para Vuelos y Taxis",
     subtitle:
-      "Si buscas gastar lo mínimo sin cargar un coche pesado, el 3Dmini pesa apenas 4.9 kg, entra en maleteras diminutas de city-car y suma respaldo acolchado multiposición + 2 portavasos.",
+      "Alternativa ultraliviana para traslados urbanos y escapadas cortas: el 3Dmini pesa apenas 4.9 kg, entra en maleteras pequeñas de city-car y suma respaldo acolchado multiposición + 2 portavasos.",
     features: [
       "Chasis ultraligero de 11 lb fácil de subir por escaleras de metro, buses o pasarelas de aeropuerto",
-      "Plegado ultradelgado de apenas 9.5\" × 10.5\" de grosor que se cuela al lado de cualquier valija",
+      "Plegado ultradelgado de apenas 9.5\" × 10.5\" de grosor que se acomoda al lado de cualquier valija",
       "Arnés de seguridad de 5 puntos, almohadilla acolchada para siestas y bloqueo automático al cerrar",
     ],
-    rating: "4.6",
-    reviewsCount: "21.500+",
     categoryType: "compact-stroller",
     specs: {
       weight: "11 lb (4.9 kg) · Resiste hasta 45 lb (20.4 kg)",
@@ -182,7 +172,7 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
     },
     queryUS: "Ingenuity 3Dmini Convenience Stroller",
     queryES: "Ingenuity 3Dmini silla paseo ultraligera",
-    ctaLabel: "Ver Oferta Ingenuity 3Dmini en Amazon",
+    ctaLabel: "Ver Disponibilidad de Ingenuity 3Dmini en Amazon",
   },
 
   INGENUITY_3DQUICKCLOSE: {
@@ -197,8 +187,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Compatible con sillas de auto infantiles (sistema CS+) y canasta de gran acceso",
       "Barra frontal desmontable, reposapiés ajustable y suspensión en ruedas delanteras",
     ],
-    rating: "4.5",
-    reviewsCount: "3.900+",
     categoryType: "one-hand-fold",
     specs: {
       weight: "17.5 lb (7.9 kg) · Resiste hasta 50 lb (22.6 kg)",
@@ -213,18 +201,16 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
 
   KOLCRAFT_CLOUD_UMBRELLA: {
     id: "kolcraft-cloud-umbrella",
-    badge: "☀️ Tipo Bastón Ultraligero (< US$50) · Kolcraft",
+    badge: "☀️ Tipo Bastón con Malla Ventilada (9.5–11 lb) · Kolcraft",
     title:
       "Kolcraft Cloud Umbrella Stroller — 9.5 a 11 lb con Capota Extensible y Respaldo Ventilado",
     subtitle:
-      "La solución más económica y veloz para conexiones de aeropuerto, abuelos y viajes de verano: respaldo con malla respirable enrollable y capota amplia para proteger del sol.",
+      "Solución ligera y veloz para conexiones de aeropuerto, abuelos y viajes de verano: respaldo con malla respirable enrollable y capota amplia para proteger del sol.",
     features: [
       "Pesa menos de 11 lb con chasis estable y doble manillar acolchado de agarre alto",
       "Almohadilla de asiento enrollable que deja al descubierto malla fresca en climas cálidos y playas",
       "Incluye portavasos para padres, canasta inferior y trabas rápidas de cierre",
     ],
-    rating: "4.5",
-    reviewsCount: "9.800+",
     categoryType: "compact-stroller",
     specs: {
       weight: "9.5–11 lb (4.3–4.9 kg) · Resiste hasta 40 lb (18 kg)",
@@ -234,23 +220,21 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
     },
     queryUS: "Kolcraft Cloud Umbrella Stroller",
     queryES: "Kolcraft Cloud silla de paseo paraguas ligera",
-    ctaLabel: "Ver Precio de Kolcraft Cloud Umbrella en Amazon",
+    ctaLabel: "Consultar Kolcraft Cloud Umbrella en Amazon",
   },
 
   GB_POCKIT_CABIN: {
     id: "gb-pockit-all-terrain",
-    badge: "🧳 Récord de Cabina IATA (Cabe en Overhead Bin)",
+    badge: "🧳 Formato Cabina IATA (Cabe en Overhead Bin)",
     title:
       "gb Pockit+ All-Terrain / Stokke YOYO3 — Ultracompacto Apto Compartimento Superior de Avión",
     subtitle:
-      "Si no quieres entregar tu coche en puerta de embarque (Gate Check) y prefieres subirlo contigo a la cabina del avión o meterlo bajo el asiento del auto, su plegado ultracompacto cabe en una mochila.",
+      "Si prefieres evitar la entrega en puerta de embarque (Gate Check) y subir el coche contigo a la cabina del avión o guardarlo tras el asiento del auto, su plegado ultracompacto cabe en una mochila.",
     features: [
-      "Plegado ultracompacto de 2 pasos (34 × 20 × 42 cm) aprobado por aerolíneas internacionales como equipaje de cabina",
+      "Plegado ultracompacto de 2 pasos (34 × 20 × 42 cm) dentro de medidas habituales de equipaje de cabina",
       "Ruedas delanteras dobles todo terreno con bloqueo para adoquines, terminales y pasillos estrechos",
       "Compatible con mochilas acolchadas de transporte aéreo y protectores de lluvia transparentes",
     ],
-    rating: "4.6",
-    reviewsCount: "7.600+",
     categoryType: "compact-stroller",
     specs: {
       weight: "12.3 lb (5.6 kg) · Resiste hasta 55 lb (25 kg)",
@@ -265,18 +249,16 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
 
   BAG_GATE_CHECK_TRAVEL: {
     id: "gate-check-travel-bag",
-    badge: "🛡️ Protección Obligatoria en Puerta de Avión",
+    badge: "🛡️ Protección Impermeable en Puerta de Avión",
     title:
       "J.L. Childress Gate Check Bag / Mochila Acolchada de Transporte (Paraguas, Libro y Doona)",
     subtitle:
-      "La diferencia entre recuperar tu coche limpio e intacto al aterrizar o encontrar el toldo manchado de grasa y rasgado en la cinta de equipaje: funda impermeable de alta visibilidad con correas de mochila.",
+      "Protección esencial para recibir tu coche limpio e intacto al aterrizar: funda impermeable de alta visibilidad con correas de mochila que evita raspones y manchas en la bodega.",
     features: [
       "Disponible en corte largo para coches paraguas (Ingenuity 3Dlite/3Dmini) y corte mochila acolchada para Kolcraft Cloud Plus / Doona",
       "Tela ripstop impermeable con costuras reforzadas, cierre de cordón doble y recuadro blanco para nombre y vuelo",
       "Se pliega dentro de su propio estuche de mano (18 × 14 cm) para guardarlo en la canasta del coche",
     ],
-    rating: "4.8",
-    reviewsCount: "34.100+",
     categoryType: "travel-bag",
     specs: {
       weight: "0.7 a 2.2 lb según versión (Gate Check vs Acolchada)",
@@ -303,8 +285,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Ventana frontal amplia con doble cremallera para darle agua o sacar al bebé sin desmontar la funda",
       "Plegado ultraligero en bolsa portátil que no roba espacio en la canasta ni en la maletera",
     ],
-    rating: "4.7",
-    reviewsCount: "16.400+",
     categoryType: "rain-cover",
     specs: {
       weight: "0.6 lb (280 g) con estuche incluido",
@@ -331,8 +311,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Compartimento central amplio para pañales, toallitas y pasaportes + bolsita frontal desmontable con cierre",
       "Centro de gravedad pegado al chasis que minimiza el riesgo de vuelco en coches ultraligeros",
     ],
-    rating: "4.8",
-    reviewsCount: "28.900+",
     categoryType: "organizer",
     specs: {
       weight: "0.8 lb (360 g) resistente lavable",
@@ -364,7 +342,6 @@ export function getContextualAmazonProducts(
 } {
   const text = `${slug} ${pillar} ${title}`.toLowerCase();
 
-  // 1. Comparativas directas VS
   if (pillar === "comparativas-coches-de-bebe" || text.includes("-vs-")) {
     if (text.includes("doona")) {
       return {
@@ -414,9 +391,9 @@ export function getContextualAmazonProducts(
     }
     return {
       sectionTitle:
-        "Modelos Ganadores Comparados por Peso, Plegado 1 Mano y Maletera",
+        "Modelos Destacados Comparados por Peso, Plegado 1 Mano y Maletera",
       sectionSubtitle:
-        "Consulta precios actuales en Amazon EE. UU. y los accesorios compatibles verificados:",
+        "Consulta disponibilidad actual en Amazon EE. UU. y los accesorios compatibles verificados:",
       products: [
         CATALOG.INGENUITY_3DLITE,
         CATALOG.KOLCRAFT_CLOUD_PLUS,
@@ -426,7 +403,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 2. Silo de Bolsos de Transporte y Gate Check
   if (
     pillar === "bolsos-de-transporte-y-fundas-avion" ||
     text.includes("bolso") ||
@@ -452,7 +428,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 3. Silo de Protectores de Lluvia y Clima
   if (
     pillar === "protectores-de-lluvia-y-clima" ||
     text.includes("lluvia") ||
@@ -478,7 +453,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 4. Silo de Organizadores y Accesorios Compatibles
   if (
     pillar === "organizadores-y-accesorios-compatibles" ||
     text.includes("organizador") ||
@@ -499,7 +473,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 5. Doona / Recién nacido / FAA / Silla de auto
   if (
     text.includes("doona") ||
     text.includes("recien-nacido") ||
@@ -520,7 +493,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 6. Kolcraft / Plegado 1 mano
   if (
     text.includes("kolcraft") ||
     text.includes("una-mano") ||
@@ -546,7 +518,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 7. Cabina de avión / Overhead Bin
   if (
     pillar === "viajar-en-avion-cabina-y-gate-check" ||
     text.includes("cabina") ||
@@ -558,7 +529,7 @@ export function getContextualAmazonProducts(
       sectionTitle:
         "Coches Aptos para Avión (Cabina IATA y Gate Check) + Bolso Protector",
       sectionSubtitle:
-        "Modelos ultraligeros que superan las pruebas de aeropuerto + funda impermeable obligatoria en puerta de embarque:",
+        "Modelos ultraligeros que superan las pruebas de aeropuerto + funda impermeable recomendada en puerta de embarque:",
       products: [
         text.includes("pockit") || text.includes("overhead")
           ? CATALOG.GB_POCKIT_CABIN
@@ -569,7 +540,6 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 8. Maletera / Auto / Hatchbacks / Sedán
   if (
     pillar === "espacio-en-maletera-y-viajes-en-auto" ||
     text.includes("maletera") ||
@@ -592,10 +562,9 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // Default: Tríada ganadora Ingenuity 3Dlite + Kolcraft Cloud Plus + Bolso Gate Check
   return {
     sectionTitle:
-      "Top Coches Compactos de Viaje y Accesorios Compatibles en Amazon EE. UU.",
+      "Coches Compactos de Viaje y Accesorios Compatibles en Amazon EE. UU.",
     sectionSubtitle:
       "Compara peso real, medidas plegado, cierre con 1 mano y espacio libre en la maletera junto a sus complementos clave:",
     products: [
